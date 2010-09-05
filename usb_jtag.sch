@@ -1,4 +1,4 @@
-EESchema Schematic File Version 2  date 2010年08月19日 星期四 23时12分44秒
+EESchema Schematic File Version 2  date 2010年08月25日 星期三 23时50分44秒
 LIBS:power
 LIBS:device
 LIBS:transistors
@@ -35,7 +35,7 @@ EELAYER END
 $Descr A3 16535 11700
 Sheet 1 1
 Title ""
-Date "19 aug 2010"
+Date "25 aug 2010"
 Rev ""
 Comp ""
 Comment1 ""
@@ -930,7 +930,7 @@ L FT2232H U5
 U 1 1 4C3F0230
 P 8800 5600
 F 0 "U5" H 8500 7150 60  0000 C CNN
-F 1 "FT2232H" H 8850 7150 60  0000 C CNN
+F 1 "FT2232HQ" H 8850 7150 60  0000 C CNN
 F 2 "QFN_64" H 8800 5600 60  0001 C CNN
 	1    8800 5600
 	1    0    0    -1  
