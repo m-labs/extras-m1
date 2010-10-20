@@ -51,7 +51,7 @@ ShowSheetReferenceAndTitleBlock=1
 [eeschema/libraries]
 LibName1=power
 LibName2=device
-LibName3=./components/conn
+LibName3=conn
 LibName4=./components/ft2232h
 LibName5=./components/mic5207-3
 LibName6=./components/crystal_smd
