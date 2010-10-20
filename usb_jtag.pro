@@ -55,6 +55,8 @@ LibName3=./components/conn
 LibName4=./components/ft2232h
 LibName5=./components/mic5207-3
 LibName6=./components/crystal_smd
+LibName7=./components/nup2201
+LibName8=./components/sn74lvc1g17
 [pcbnew]
 version=1
 PadDrlX=354
