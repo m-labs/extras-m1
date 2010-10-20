@@ -1,41 +1,17 @@
-EESchema Schematic File Version 2  date 2010年08月25日 星期三 23时50分44秒
+EESchema Schematic File Version 2  date 2010年10月18日 星期一 00时26分18秒
 LIBS:power
 LIBS:device
-LIBS:transistors
 LIBS:conn
-LIBS:linear
-LIBS:regul
-LIBS:74xx
-LIBS:cmos4000
-LIBS:adc-dac
-LIBS:memory
-LIBS:xilinx
-LIBS:special
-LIBS:microcontrollers
-LIBS:dsp
-LIBS:microchip
-LIBS:analog_switches
-LIBS:motorola
-LIBS:texas
-LIBS:intel
-LIBS:audio
 LIBS:interface
-LIBS:digital-audio
-LIBS:philips
-LIBS:display
-LIBS:cypress
-LIBS:siliconi
-LIBS:opto
-LIBS:atmel
-LIBS:contrib
-LIBS:valves
-LIBS:usb_jtag-cache
+LIBS:ft2232h
+LIBS:mic5207-3
+LIBS:crystal_smd
 EELAYER 24  0
 EELAYER END
 $Descr A3 16535 11700
 Sheet 1 1
 Title ""
-Date "25 aug 2010"
+Date "17 oct 2010"
 Rev ""
 Comp ""
 Comment1 ""
@@ -1524,7 +1500,7 @@ L CP1 C14
 U 1 1 4C3DDB8C
 P 14500 4300
 F 0 "C14" H 14550 4400 50  0000 L CNN
-F 1 "10uF" H 14550 4200 50  0000 L CNN
+F 1 "2.2uF" H 14550 4200 50  0000 L CNN
 F 2 "SM0402" H 14500 4300 60  0001 C CNN
 	1    14500 4300
 	1    0    0    -1  
@@ -1623,7 +1599,7 @@ U 1 1 4C3DD6B1
 P 7550 9400
 F 0 "P1" V 7500 9400 50  0000 C CNN
 F 1 "UART" V 7600 9400 50  0000 C CNN
-F 2 "SIL-4" H 7550 9400 60  0001 C CNN
+F 2 "SIP-2.54-4" H 7550 9400 60  0001 C CNN
 	1    7550 9400
 	1    0    0    -1  
 $EndComp
