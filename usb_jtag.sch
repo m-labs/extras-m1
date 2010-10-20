@@ -2,7 +2,6 @@ EESchema Schematic File Version 2  date 2010年10月18日 星期一 00时26分18
 LIBS:power
 LIBS:device
 LIBS:conn
-LIBS:interface
 LIBS:ft2232h
 LIBS:mic5207-3
 LIBS:crystal_smd

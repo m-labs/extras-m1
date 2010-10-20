@@ -52,10 +52,9 @@ ShowSheetReferenceAndTitleBlock=1
 LibName1=power
 LibName2=./components/device
 LibName3=./components/conn
-LibName4=./components/interface
-LibName5=./components/ft2232h
-LibName6=./components/mic5207-3
-LibName7=./components/crystal_smd
+LibName4=./components/ft2232h
+LibName5=./components/mic5207-3
+LibName6=./components/crystal_smd
 [pcbnew]
 version=1
 PadDrlX=354
