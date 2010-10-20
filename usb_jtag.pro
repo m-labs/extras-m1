@@ -50,7 +50,7 @@ PrintMonochrome=1
 ShowSheetReferenceAndTitleBlock=1
 [eeschema/libraries]
 LibName1=power
-LibName2=./components/device
+LibName2=device
 LibName3=./components/conn
 LibName4=./components/ft2232h
 LibName5=./components/mic5207-3
