@@ -1,0 +1,14 @@
+#SUB
+-> T=unknown
+
+C[0-9]* {
+    -> T=C
+    VAL=*F -> C=$VAL
+    FN=*V -> V=>=$FN
+}
+
+R[0-9]* {
+    -> T=R
+    VAL=$R -> R=$VAL
+    -> TOL=5%
+}
