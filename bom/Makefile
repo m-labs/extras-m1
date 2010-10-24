@@ -4,8 +4,8 @@ BOOM=../../boom/boom
 KITS=1
 
 EQU=usb_jtag.equ $(shell $(BOOM_CONFIG) equ)
-INV=usb_jtag.inv $(shell $(BOOM_CONFIG) inv)
-DSC=$(shell $(BOOM_CONFIG) dsc)
+INV=usb_jtag.inv digi-key.inv $(shell $(BOOM_CONFIG) inv)
+DSC=digi-key.dsc $(shell $(BOOM_CONFIG) dsc)
 CHR=$(shell $(BOOM_CONFIG) chr)
 
 usb_jtag.ord:	usb_jtag.par $(INV) $(EQU)
