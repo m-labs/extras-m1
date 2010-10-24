@@ -26,3 +26,28 @@ D: http://www.onsemi.com/pub_link/Collateral/CAT93C46-D.PDF
 N: sn74lvc1g17
 A: schmitt-trigger
 D: http://focus.ti.com/lit/ds/symlink/sn74lvc1g17.pdf
+
+N: crystal_12mhz
+A: crystal
+D: http://www.txccrystal.com/images/pdf/7m.pdf
+
+N: crystal_basics
+D: http://www.txccrystal.com/images/pdf/number-crystal-basic.pdf
+
+N: usb_minib
+A: usb
+D: http://www.hirose.co.jp/cataloge_hp/e24000019.pdf
+
+N: bead
+A: filter
+D: http://search.murata.co.jp/Ceramy/image/img/PDF/ENG/L0110S0100BLM15A_SN.pdf
+
+N: led
+D: http://media.digikey.com/pdf/Data%20Sheets/Panasonic%20LEDs%20PDFs/LED%20LNJ.pdf
+
+N: uart_header
+D: http://www.sullinscorp.com/catalogs/78_Page80-81_HEADER_.100_2.54mm_FEMALE.pdf
+
+N: jtag_header
+D: http://multimedia.3m.com/mws/mediawebserver?66666UuZjcFSLXTt4XfXl8z6EVuQEcuZgVs6EVs6E666666--
+
