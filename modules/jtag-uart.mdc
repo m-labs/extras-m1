@@ -1,0 +1,48 @@
+PCBNEW-LibDoc----V1  2010年08月25日 星期三 21时28分58秒
+#
+$MODULE CRYSTAL_DIP
+Li CRYSTAL_DIP
+Cd Quartz boitier HC-18U vertical
+Kw QUARTZ DEV
+$EndMODULE
+#
+$MODULE LED-0603
+Li LED-0603
+Cd LED 0603 smd package
+Kw LED led 0603 SMD smd SMT smt smdled SMDLED smtled SMTLED
+$EndMODULE
+#
+$MODULE SOIC-8
+Li SOIC-8
+Cd Module CMS SOJ 8 pins large
+Kw CMS SOJ
+$EndMODULE
+#
+$MODULE SOT23-5
+Li SOT23-5
+Cd SOT23-5
+$EndMODULE
+#
+$MODULE TQFP_64
+Li TQFP_64
+Kw TQFP64 TQFP SMD IC
+$EndMODULE
+#
+$MODULE USB_B
+Li USB_B
+Kw USB
+$EndMODULE
+#
+$MODULE IDC-14
+Li IDC-14
+Cd Double rangee de contacts 2 x 8 pins
+Kw CONN
+$EndMODULE
+#
+$MODULE SIL-4
+Li SIL-4
+Cd Connecteur 4 pibs
+Kw CONN DEV
+$EndMODULE
+#
+$EndLIBDOC

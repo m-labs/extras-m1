@@ -1,0 +1,16 @@
+
+feedback from Werner
+
+1) shouldn't R16 also have a voltage rating similar to C31 ?
+   it has a 0402 footprint, so it's rated to only around 50 V
+2) FBx have no values, one idea is to put the manufacturer
+   part number into the value field, see U1 and D1 in cntr
+3) the mini-usb connector symbol is quite ugly. to make it even
+   more weird, it has two unused pins that don't correspond to
+   anything in the footprint either. how about stealing the one
+   from gta02-core or ben-wpan (the latter got it from the former) ?
+   ben-wpan/components/mini_usb_b.lib
+4) (that's something inherited from kicad) you have a nice example
+   for the trouble with the default symbols when you look at the
+   font sizes in FB2, then C27, and finally +3.3V (all are near
+   each other)
