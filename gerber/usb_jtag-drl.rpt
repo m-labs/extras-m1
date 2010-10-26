@@ -1,13 +1,13 @@
-Drill report for /home/luo/project/Milkymist/jtag/design/usb_jtag.brd
-Created on 2010年09月03日 星期五 23时32分48秒
+Drill report for /home/luo/project/Milkymist/jtag/test/mmone-jtag-serial-cable/usb_jtag.brd
+Created on 2010年10月26日 星期二 23时12分41秒
 Selected Drill Unit: Imperial (")
 
 Drill report for through holes :
-T1  0.012"  0.30mm  (62 holes)
-T2  0.025"  0.64mm  (8 holes)
+T1  0.012"  0.30mm  (65 holes)
+T2  0.025"  0.64mm  (4 holes)
 T3  0.035"  0.90mm  (4 holes)
 T4  0.039"  1.00mm  (2 holes)
 
-total holes count 76
+total holes count 75
 
 

@@ -1,4 +1,4 @@
-EESchema Schematic File Version 2  date Sat 23 Oct 2010 05:35:32 AM UTC
+EESchema Schematic File Version 2  date 2010年10月26日 星期二 22时19分14秒
 LIBS:power
 LIBS:device
 LIBS:conn
@@ -13,7 +13,7 @@ EELAYER END
 $Descr A3 16535 11700
 Sheet 1 1
 Title ""
-Date "23 oct 2010"
+Date "26 oct 2010"
 Rev ""
 Comp ""
 Comment1 ""
@@ -21,10 +21,10 @@ Comment2 ""
 Comment3 ""
 Comment4 ""
 $EndDescr
-NoConn ~ 6800 6750
-NoConn ~ 6800 7050
-NoConn ~ 2250 5700
-NoConn ~ 2250 5600
+Wire Wire Line
+	4100 4800 2250 4800
+Wire Wire Line
+	4100 4900 2250 4900
 Connection ~ 2600 5500
 Wire Wire Line
 	2250 5500 2600 5500
@@ -33,11 +33,9 @@ Connection ~ 2600 5200
 Wire Wire Line
 	2600 5650 2600 5200
 Wire Wire Line
-	2850 5750 2850 5200
+	2850 5200 2850 5750
 Wire Wire Line
-	2850 5200 2250 5200
-Wire Wire Line
-	3700 4800 2250 4800
+	2250 5200 2850 5200
 Wire Wire Line
 	14150 4100 14150 4050
 Wire Wire Line
@@ -47,7 +45,7 @@ Wire Wire Line
 Wire Wire Line
 	12750 3950 12900 3950
 Wire Wire Line
-	12150 3850 12900 3850
+	12900 3850 12150 3850
 Wire Wire Line
 	10300 7300 10300 7150
 Wire Wire Line
@@ -126,15 +124,15 @@ Wire Wire Line
 	2200 8950 2200 8850
 Connection ~ 4250 9600
 Wire Wire Line
-	4100 9800 4250 9800
+	4250 9800 4100 9800
 Wire Wire Line
-	4250 9800 4250 9500
+	4250 9500 4250 9800
 Wire Wire Line
 	6150 2900 8200 2900
 Wire Wire Line
-	8400 3050 8400 2650
+	8400 2650 8400 3050
 Wire Wire Line
-	8400 2650 6150 2650
+	6150 2650 8400 2650
 Connection ~ 6600 2900
 Wire Wire Line
 	6950 3000 6950 2650
@@ -156,7 +154,7 @@ Wire Wire Line
 	6250 2900 6250 3000
 Connection ~ 9150 7800
 Wire Wire Line
-	8350 7800 9250 7800
+	9250 7800 8350 7800
 Wire Wire Line
 	9250 7800 9250 7600
 Connection ~ 8950 7800
@@ -188,7 +186,7 @@ Wire Wire Line
 Wire Wire Line
 	8800 2900 8600 2900
 Wire Wire Line
-	8950 3050 8950 2900
+	8950 2900 8950 3050
 Connection ~ 9150 2900
 Wire Wire Line
 	9050 3050 9050 2900
@@ -210,7 +208,7 @@ Wire Wire Line
 Wire Wire Line
 	12450 4500 12450 4600
 Wire Wire Line
-	14800 4100 14800 3850
+	14800 3850 14800 4100
 Wire Wire Line
 	14800 4600 14800 4500
 Wire Wire Line
@@ -264,11 +262,6 @@ Wire Wire Line
 	3100 7550 3100 7450
 Wire Wire Line
 	2250 4700 2700 4700
-Connection ~ 3550 4800
-Wire Wire Line
-	3550 5000 3550 4800
-Wire Wire Line
-	4800 4800 4200 4800
 Wire Wire Line
 	7200 7450 7200 7350
 Wire Wire Line
@@ -279,15 +272,6 @@ Connection ~ 7200 6900
 Wire Wire Line
 	6350 7450 6350 7350
 Connection ~ 6350 6900
-Wire Wire Line
-	3550 5500 3550 5400
-Wire Wire Line
-	3300 5500 3300 5400
-Wire Wire Line
-	3300 5000 3300 4900
-Connection ~ 3300 4900
-Wire Wire Line
-	4800 4900 4200 4900
 Wire Wire Line
 	7650 7100 7550 7100
 Wire Wire Line
@@ -324,9 +308,9 @@ Wire Wire Line
 Wire Wire Line
 	15500 2000 14800 2000
 Wire Wire Line
-	14000 1700 13850 1700
+	13850 1700 14000 1700
 Wire Wire Line
-	13850 1700 13850 2450
+	13850 2450 13850 1700
 Wire Wire Line
 	13850 1900 14000 1900
 Connection ~ 13850 1900
@@ -369,7 +353,7 @@ Wire Wire Line
 Connection ~ 9250 2900
 Connection ~ 9050 2900
 Wire Wire Line
-	8950 2900 9250 2900
+	9250 2900 8950 2900
 Wire Wire Line
 	8800 2800 8800 3050
 Wire Wire Line
@@ -428,9 +412,9 @@ Connection ~ 7300 2650
 Wire Wire Line
 	8200 2900 8200 3050
 Wire Wire Line
-	4100 9700 4200 9700
+	4200 9700 4100 9700
 Wire Wire Line
-	4200 9700 4200 10050
+	4200 10050 4200 9700
 Connection ~ 4200 9900
 Wire Wire Line
 	2200 9450 2200 9700
@@ -461,7 +445,7 @@ Wire Wire Line
 Wire Wire Line
 	10600 7150 10600 7300
 Wire Wire Line
-	10300 7700 10300 7850
+	10300 7850 10300 7700
 Wire Wire Line
 	10300 7850 10600 7850
 Wire Wire Line
@@ -475,18 +459,20 @@ Wire Wire Line
 	12650 4050 12650 3850
 Connection ~ 12650 3850
 Wire Wire Line
-	14800 3850 13950 3850
+	13950 3850 14800 3850
 Wire Wire Line
 	14150 4600 14150 4500
 Wire Wire Line
 	2850 5100 2250 5100
 Wire Wire Line
-	3700 4900 2250 4900
-Wire Wire Line
 	2250 5300 2600 5300
 Wire Wire Line
 	2250 5400 2600 5400
 Connection ~ 2600 5400
+NoConn ~ 6800 6750
+NoConn ~ 6800 7050
+NoConn ~ 2250 5700
+NoConn ~ 2250 5600
 $Comp
 L GND #PWR01
 U 1 1 4C5ECCCA
@@ -1387,9 +1373,9 @@ F 1 "+1.8V" H 7400 3960 30  0000 C CNN
 	1    7400 3850
 	1    0    0    -1  
 $EndComp
-Text Label 4400 4900 0    60   ~ 0
+Text Label 3650 4900 0    60   ~ 0
 USB_DP
-Text Label 4400 4800 0    60   ~ 0
+Text Label 3650 4800 0    60   ~ 0
 USB_DM
 Text Label 7250 4250 0    60   ~ 0
 USB_DP
@@ -1774,56 +1760,18 @@ F 1 "+5V" H 3550 4640 30  0000 C CNN
 $EndComp
 $Comp
 L GND #PWR064
-U 1 1 4C3D79A8
-P 3300 5500
-F 0 "#PWR064" H 3300 5500 30  0001 C CNN
-F 1 "GND" H 3300 5430 30  0001 C CNN
-	1    3300 5500
-	1    0    0    -1  
-$EndComp
-$Comp
-L GND #PWR065
-U 1 1 4C3D799D
-P 3550 5500
-F 0 "#PWR065" H 3550 5500 30  0001 C CNN
-F 1 "GND" H 3550 5430 30  0001 C CNN
-	1    3550 5500
-	1    0    0    -1  
-$EndComp
-$Comp
-L C C2
-U 1 1 4C3D7994
-P 3300 5200
-F 0 "C2" H 3350 5300 50  0000 L CNN
-F 1 "47pF" H 3350 5100 50  0000 L CNN
-F 2 "0402" H 3300 5200 60  0001 C CNN
-	1    3300 5200
-	1    0    0    -1  
-$EndComp
-$Comp
-L C C4
-U 1 1 4C3D798B
-P 3550 5200
-F 0 "C4" H 3600 5300 50  0000 L CNN
-F 1 "47pF" H 3600 5100 50  0000 L CNN
-F 2 "0402" H 3550 5200 60  0001 C CNN
-	1    3550 5200
-	1    0    0    -1  
-$EndComp
-$Comp
-L GND #PWR066
 U 1 1 4C3D784D
 P 6350 7450
-F 0 "#PWR066" H 6350 7450 30  0001 C CNN
+F 0 "#PWR064" H 6350 7450 30  0001 C CNN
 F 1 "GND" H 6350 7380 30  0001 C CNN
 	1    6350 7450
 	1    0    0    -1  
 $EndComp
 $Comp
-L GND #PWR067
+L GND #PWR065
 U 1 1 4C3D7841
 P 7200 7450
-F 0 "#PWR067" H 7200 7450 30  0001 C CNN
+F 0 "#PWR065" H 7200 7450 30  0001 C CNN
 F 1 "GND" H 7200 7380 30  0001 C CNN
 	1    7200 7450
 	1    0    0    -1  
@@ -1859,28 +1807,8 @@ F 2 "0402" H 6350 7150 60  0001 C CNN
 	1    6350 7150
 	1    0    0    -1  
 $EndComp
-$Comp
-L R R4
-U 1 1 4C3D742D
-P 3950 4800
-F 0 "R4" V 3850 4800 50  0000 C CNN
-F 1 "22" V 3950 4800 50  0000 C CNN
-F 2 "0402" H 3950 4800 60  0001 C CNN
-	1    3950 4800
-	0    1    1    0   
-$EndComp
-$Comp
-L R R3
-U 1 1 4C3D741E
-P 3950 4900
-F 0 "R3" V 4030 4900 50  0000 C CNN
-F 1 "22" V 3950 4900 50  0000 C CNN
-F 2 "0402" H 3950 4900 60  0001 C CNN
-	1    3950 4900
-	0    1    1    0   
-$EndComp
 Text Notes 15500 11100 0    60   ~ 0
-REVA06
+REVA07
 Text Notes 12700 10850 0    60   ~ 0
 USB JTAG cable for Milkymist by Yanjun Luo <yanjun.luo@gmail.com>
 $EndSCHEMATC
