@@ -1,4 +1,4 @@
-update=2010年10月26日 星期二 23时15分34秒
+update=2010年10月27日 星期三 23时06分58秒
 version=1
 last_client=pcbnew
 [cvpcb]

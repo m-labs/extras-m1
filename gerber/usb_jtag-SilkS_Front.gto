@@ -1,4 +1,4 @@
-G04 (created by PCBNEW-RS274X (2010-05-05 BZR 2356)-stable) date 2010年10月26日 星期二 23时10分03秒*
+G04 (created by PCBNEW-RS274X (2010-05-05 BZR 2356)-stable) date 2010年10月27日 星期三 23时04分44秒*
 G01*
 G70*
 G90*

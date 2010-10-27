@@ -1,4 +1,4 @@
-EESchema Schematic File Version 2  date 2010年10月26日 星期二 22时19分14秒
+EESchema Schematic File Version 2  date 2010年10月27日 星期三 22时38分19秒
 LIBS:power
 LIBS:device
 LIBS:conn
@@ -8,12 +8,13 @@ LIBS:crystal_smd
 LIBS:nup2201
 LIBS:sn74lvc1g17
 LIBS:93c46
+LIBS:usb_jtag-cache
 EELAYER 24  0
 EELAYER END
 $Descr A3 16535 11700
 Sheet 1 1
 Title ""
-Date "26 oct 2010"
+Date "27 oct 2010"
 Rev ""
 Comp ""
 Comment1 ""
@@ -836,8 +837,8 @@ L R R16
 U 1 1 4C409062
 P 2600 5900
 F 0 "R16" V 2680 5900 50  0000 C CNN
-F 1 "1M" V 2600 5900 50  0000 C CNN
-F 2 "0402" H 2600 5900 60  0001 C CNN
+F 1 "1M/250V" V 2500 5900 50  0000 C CNN
+F 2 "SM1206" H 2600 5900 60  0001 C CNN
 	1    2600 5900
 	-1   0    0    1   
 $EndComp
@@ -1808,7 +1809,7 @@ F 2 "0402" H 6350 7150 60  0001 C CNN
 	1    0    0    -1  
 $EndComp
 Text Notes 15500 11100 0    60   ~ 0
-REVA07
+REVA08
 Text Notes 12700 10850 0    60   ~ 0
 USB JTAG cable for Milkymist by Yanjun Luo <yanjun.luo@gmail.com>
 $EndSCHEMATC
