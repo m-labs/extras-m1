@@ -17,10 +17,13 @@ D: http://www.micrel.com/_PDF/mic5207.pdf
 
 N: nup2201
 A: tvs
+A: U6
+A: U7
 D: http://www.onsemi.com/pub_link/Collateral/NUP2201MR6-D.PDF
 
 N: 93c46
 A: eeprom
+A: U1
 D: http://www.onsemi.com/pub_link/Collateral/CAT93C46-D.PDF
 
 N: sn74lvc1g17
@@ -29,6 +32,7 @@ D: http://focus.ti.com/lit/ds/symlink/sn74lvc1g17.pdf
 
 N: crystal_12mhz
 A: crystal
+A: X1
 D: http://www.txccrystal.com/images/pdf/7m.pdf
 
 N: crystal_basics
@@ -43,6 +47,9 @@ A: filter
 D: http://search.murata.co.jp/Ceramy/image/img/PDF/ENG/L0110S0100BLM15A_SN.pdf
 
 N: led
+A: D2
+A: D3
+A: D4
 D: http://media.digikey.com/pdf/Data%20Sheets/Panasonic%20LEDs%20PDFs/LED%20LNJ.pdf
 
 N: uart_header
@@ -55,6 +62,24 @@ N: cap-33pf-0402
 A: C1
 A: C3
 D: http://www.yageo.com/documents/recent/UPY-GP_NP0_16V-to-50V_4.pdf
+
+N: res-10kohm-0402
+A: R1
+A: R7
+A: R9
+A: R12
+A: R13
+A: R15
+A: R17
+D: http://www.seielect.com/Catalog/SEI-RMC.pdf
+
+N: res-12kohm-0402
+A: R4
+D: http://industrial.panasonic.com/www-cgi/jvcr13pz.cgi?E+PZ+3+AOA0001+ERJ2GEJ123X+7+WW
+
+N: res-1kohm-0402
+A: R6
+D: http://www.seielect.com/Catalog/SEI-RMC.pdf
 
 N: res-10mohm-1206
 A: R16
