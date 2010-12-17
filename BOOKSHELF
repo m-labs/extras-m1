@@ -55,3 +55,17 @@ N: cap-33pf-0402
 A: C1
 A: C3
 D: http://www.yageo.com/documents/recent/UPY-GP_NP0_16V-to-50V_4.pdf
+
+N: res-10mohm-1206
+A: R16
+D: http://www.seielect.com/Catalog/SEI-RMC.pdf
+
+N: uart_header_3m
+A: P1_lowprofile_3.8mm
+D: http://multimedia.3m.com/mws/mediawebserver?mwsId=66666UuZjcFSLXTt4XftLxz6EVuQEcuZgVs6EVs6E666666--
+
+N: uart_header_tyco
+A: P1
+D: http://www.mouser.com/catalog/specsheets/ENG535541N2%5B1%5D.pdf
+
+
