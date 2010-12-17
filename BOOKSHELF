@@ -51,3 +51,7 @@ D: http://www.sullinscorp.com/catalogs/78_Page80-81_HEADER_.100_2.54mm_FEMALE.pd
 N: jtag_header
 D: http://multimedia.3m.com/mws/mediawebserver?66666UuZjcFSLXTt4XfXl8z6EVuQEcuZgVs6EVs6E666666--
 
+N: cap-33pf-0402
+A: C1
+A: C3
+D: http://www.yageo.com/documents/recent/UPY-GP_NP0_16V-to-50V_4.pdf
