@@ -8,11 +8,13 @@
 
 N: ft2232hq
 A: ftdi
+A: U5
 D: http://www.ftdichip.com/Support/Documents/DataSheets/ICs/DS_FT2232H.pdf
 
 N: mic5207-3.3
 A: ldo
 A: regulator
+A: U4
 D: http://www.micrel.com/_PDF/mic5207.pdf
 
 N: nup2201
@@ -28,6 +30,9 @@ D: http://www.onsemi.com/pub_link/Collateral/CAT93C46-D.PDF
 
 N: sn74lvc1g17
 A: schmitt-trigger
+A: U9
+A: U10
+A: U11
 D: http://focus.ti.com/lit/ds/symlink/sn74lvc1g17.pdf
 
 N: crystal_12mhz
@@ -44,6 +49,9 @@ D: http://www.hirose.co.jp/cataloge_hp/e24000019.pdf
 
 N: bead
 A: filter
+A: FB1
+A: FB2
+A: FB3
 D: http://search.murata.co.jp/Ceramy/image/img/PDF/ENG/L0110S0100BLM15A_SN.pdf
 
 N: led
@@ -55,13 +63,71 @@ D: http://media.digikey.com/pdf/Data%20Sheets/Panasonic%20LEDs%20PDFs/LED%20LNJ.
 N: uart_header
 D: http://www.sullinscorp.com/catalogs/78_Page80-81_HEADER_.100_2.54mm_FEMALE.pdf
 
-N: jtag_header
+N: uart_header_3m
+A: P1_lowprofile_3.8mm
+D: http://multimedia.3m.com/mws/mediawebserver?mwsId=66666UuZjcFSLXTt4XftLxz6EVuQEcuZgVs6EVs6E666666--
+
+N: uart_header_tyco
+A: P1
+D: http://documents.tycoelectronics.com/commerce/DocumentDelivery/DDEController?Action=srchrtrv&DocNm=535541&DocType=CD&DocLang=EN
+
+N: jtag_header_3m
+A: P2
 D: http://multimedia.3m.com/mws/mediawebserver?66666UuZjcFSLXTt4XfXl8z6EVuQEcuZgVs6EVs6E666666--
+
+N: jtag_header_molex
+A: P2_molex
+D: http://www.molex.com/pdm_docs/sd/791091006_sd.pdf
 
 N: cap-33pf-0402
 A: C1
 A: C3
 D: http://www.yageo.com/documents/recent/UPY-GP_NP0_16V-to-50V_4.pdf
+
+N: cap-0.1uf-0402
+A: C10
+A: C13
+A: C15
+A: C18
+A: C20
+A: C21
+A: C22
+A: C23
+A: C24
+A: C25
+A: C26
+A: C28
+A: C30
+A: C32
+A: C33
+A: C35
+D: http://www.yageo.com/documents/recent/UPY-GPHC_Y5V_6.3V-to-50V_5.pdf
+
+N: cap-10uf-0603
+A: C12
+A: C17
+D: http://search.murata.co.jp/Ceramy/image/img/PDF/ENG/GRM188R60J106ME47.pdf
+
+N: cap-2.2uf-0402
+A: C14
+D: http://search.murata.co.jp/Ceramy/image/img/PDF/ENG/GRM155R60G225ME15.pdf
+
+N: cap-470pf-0402
+A: C16
+D: http://www.yageo.com/documents/recent/UPY-GPHC_X7R_63V-to-50V_6.pdf
+
+N: cap-3.3uf-0603
+A: C19
+D: http://www.tdk.co.jp/tefe02/e412_c.pdf
+
+N: cap-4.7uf-0603
+A: C27
+A: C29
+D: http://www.tdk.co.jp/tefe02/e412_c.pdf
+
+N: cap-4.7nf-1206
+A: C31
+D: http://www.tdk.co.jp/tefe02/e413_c.pdf
 
 N: res-10kohm-0402
 A: R1
@@ -85,12 +151,6 @@ N: res-10mohm-1206
 A: R16
 D: http://www.seielect.com/Catalog/SEI-RMC.pdf
 
-N: uart_header_3m
-A: P1_lowprofile_3.8mm
-D: http://multimedia.3m.com/mws/mediawebserver?mwsId=66666UuZjcFSLXTt4XftLxz6EVuQEcuZgVs6EVs6E666666--
 
-N: uart_header_tyco
-A: P1
-D: http://www.mouser.com/catalog/specsheets/ENG535541N2%5B1%5D.pdf
 
 
