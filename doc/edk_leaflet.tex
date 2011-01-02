@@ -1,0 +1,107 @@
+\documentclass{leaflet}
+\usepackage{palatino}
+\usepackage{url}
+\title{Milkymist\texttrademark~One\\Early Developer Kit (EDK)}
+\date{}
+\begin{document}
+\maketitle
+\textit{Congratulations on your purchase of a Milkymist One EDK. Should you be a software developer, a FPGA developer, a designer or anyone else, we are happy to see you joining the community of copyleft hardware enthusiasts.}
+
+\section{Contents}
+Your kit contains:
+\begin{itemize}
+\item a Milkymist One board
+\item a JTAG and serial USB adapter
+\item a power supply adapter for the Milkymist One
+\item a USB cable
+\end{itemize}
+
+The Milkymist One is a single board computer with features making it an attractive platform for live video synthesis (VJing) and processing applications:
+\begin{itemize}
+\item Multi-standard video input
+\item Two DMX512 ports
+\item MIDI IN and MIDI OUT ports
+\item AC'97 audio
+\item RC5-compatible infrared receiver
+\item VGA output, 24bpp, up to 140MHz pixel clock
+\item 10/100 Ethernet
+\item Memory card
+\item 128MB DDR SDRAM, 32MB Flash
+\item Two USB host connectors
+\end{itemize}
+
+Even though it can be used as a fully fledged embedded computer, your Milkymist One does not include a CPU by itself. Instead, its central component is a XC6SLX45 FPGA\footnote{Think of the FPGA as ``rewritable silicon''.} which is programmed with our own open source CPU/SoC design.
+
+\section{Warranty and return policy}
+The kit is manufactured by Sharism at Work Ltd. (\url{http://www.sharism.cc}). The boards are fully factory tested, and are guaranteed against manufacturing defects for a period of 3 years after the date of initial purchase. This does not include malfunction due to misuse of the board, such as application of inappropriate voltages to the board's connectors or improperly designed or executed modifications. In particular, you are the sole responsible for damage caused by a power supply adapter other than provided.
+
+If you believe your kit suffers from a manufacturing problem, e-mail sales@sharism.cc and we will find a solution and/or replace the faulty product.
+
+\section{Getting started}
+Your board is pre-loaded with the following:
+\begin{itemize}
+\item the \textbf{Milkymist System-on-Chip} (SoC), which is one of the leading open source SoC designs. It contains the LatticeMico32 CPU core (which makes up approximately 20\% of the lines of code) running at 80MHz, peripheral cores for all the features of the Milkymist One, and graphics accelerators.
+\item the \textbf{Milkymist BIOS} (bootloader)
+\item the \textbf{Flickernoise} VJ software (based on the \textbf{RTEMS} real time operating system) which is a end-user GUI application that lets you create visual effects on the Milkymist One.
+\end{itemize}
+
+Connect a VGA screen and a USB keyboard and mouse to your board. Use the provided supply adapter to power your board, then press the middle push button to start it.
+
+Use a power supply adapter different from the provided one \textbf{at your own risk}. The board needs a tightly \textbf{regulated} power supply, and many cheap wall plug adapters can often cause overvoltages due to a poor regulation that \textbf{can damage the board}.
+
+\section{Welcome}
+You can use your Milkymist One for video synthesis with Flickernoise or for any other purpose (even as a general-purpose FPGA development board). But feel free to re-use our code and contribute your changes back so fewer wheels have to be re-invented. Most of the code is covered by the GNU GPL (including the SoC design).
+
+We are a small group of enthusiasts who hang around in the \#milkymist channel on the Freenode IRC network. Please come by and meet us!
+
+We also have:
+\begin{itemize}
+\item a mailing list at \url{http://lists.milkymist.org}, which is the best place to stay informed about the latest developments, ask for/provide help and participate in or follow the discussions.
+\item a wiki at \url{http://www.milkymist.org/wiki} which you are most welcome to edit, and already contains valuable resources to get you started with your kit.
+\item the main home page at \url{http://www.milkymist.org}, with project news, downloads, etc.
+\end{itemize}
+
+\section{Bug reports and feature requests}
+If you want to report a bug or request a feature in the Milkymist SoC, the RTEMS port or Flickernoise, here is what you should do.
+\begin{itemize}
+\item If you \textbf{include a patch} implementing the feature or fixing the bug, please post it to the mailing list (devel@lists.milkymist.org) for speedy review and possibly merging. It should be accompanied by a note stating that you are publishing the patch under the license of the code you are modifying (typically GPL v3) or a compatible one. We welcome contributions from everyone, and patches are judged solely on their technical merits.
+\item If you \textbf{need help} tracking down a bug or implementing a new feature, feel free to ask on the mailing list as well.
+\item If you are only reporting a new bug or requesting a feature \textbf{without taking care of it yourself}, please do not post to the mailing list. Instead, use the issue tracker at Github for bugs, and the forum at \url{http://milkymist.uservoice.com} for ideas and feature requests. Search first if a similar entry already exists, and vote it up if this is the case. This helps us avoid duplicate entries and allows developers to quickly spot the most wanted features.
+\end{itemize}
+
+The main Git repositories are:
+\begin{itemize}
+\item \url{github.com/lekernel/milkymist} contains the Milkymist System-on-Chip design and the BIOS.
+\item \url{github.com/fallen/rtems-milkymist} is the port of RTEMS to the Milkymist SoC. This will hopefully be merged into RTEMS 4.11 in the future.
+\item \url{github.com/lekernel/mtk} is the GUI toolkit used by Flickernoise.
+\item \url{github.com/lekernel/flickernoise} contains the Flickernoise VJ application.
+\end{itemize}
+
+\section{Development environment}
+If you are focusing on software, you don't need to install the (proprietary) FPGA design tools from Xilinx and all the tools are open source. If you want to modify the CPU or SoC design (a possibility that few other electronic devices offer!), you will only need ISE Webpack which is free of charge.
+
+We are working with \textbf{Free Electronic Lab} (formerly known as \textbf{Fedora Electronic Lab}) to provide the smoothest development environment set-up experience. Starting with Fedora 14, you can simply use:
+
+\begin{verbatim}
+# yum groupinstall milkymist
+\end{verbatim}
+
+to automatically install a growing part of the tools you need for developing Milkymist applications. Unfortunately, we can't provide the FPGA compilation tools (and you will have to download them yourself from Xilinx if you want to do FPGA compilation), but Fedora does provide open source Verilog simulation tools that are used for all the test benches of the Milkymist SoC.
+
+The JTAG adapter works with UrJTAG and OpenOCD. You can find instructions on the wiki.
+
+\section{Operating systems}
+Even though we focus on the RTEMS operating system for the development of our VJ application, there are people who show interest in running Linux on the Milkymist SoC. We already have a working (but highly experimental) uClinux port that can run Busybox and some applications.
+
+You can find more information about this port in the mailing list archives at \url{http://lists.milkymist.org}
+
+In either case, we hope you will enjoy running a free OS on free hardware :)
+
+\section{Case}
+The Milkymist One does not come with a case yet. But for the CAM fanatics among you, there is a ``Steampunk DIY'' design, made at the Raumfahrtagentur hacklab in Berlin, that you can reproduce yourself with a laser cutter. You can download the design files from \url{http://www.milkymist.org/mmone.html}, and even buy time from Raumfahrtagentur's laser cutter. See \url{http://www.raumfahrtagentur.org}.
+
+Thank you again for your purchase of a Milkymist One EDK. We hope to hear from you soon!
+
+\textit{This leaflet is published under the Creative Commons Attribution-ShareAlike 3.0 Unported license. Milkymist is a trademark of S\'ebastien Bourdeauducq.}
+
+\end{document}
