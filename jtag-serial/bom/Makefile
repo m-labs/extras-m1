@@ -1,5 +1,5 @@
-BOOM_CONFIG=../../eda-tools/boom/boom-config
-BOOM=../../boom/boom
+BOOM_CONFIG=../../../eda-tools/boom/boom-config
+BOOM=../../../boom/boom
 
 KITS=1
 
