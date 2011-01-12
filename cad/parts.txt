@@ -9,3 +9,19 @@
  8 | 3 | Button spacer | 0.5mm Acryllic
  9 | 3 | Button holder | 1.0mm Acryllic
 10 | 4 | rubber feet | clear rubber
+
+Notes
+-----
+
+* Bottom insulation shield from www.gemmel-metalle.de
+
+http://www.gemmel-metalle.de/downloads/aluminium/16_29.pdf
+
+You can either use EN AW-1050A / EN AW-Al 99,5 in 0.2 mm thickness.
+Or EN AW-5754 / EN AW-Al Mg 3 in 0.3mm thickness, which will give you
+slightly better mechanical stability.
+
+We are using normal packing tape for insulation towards the PCB for
+now, until we find a better solution.
+
+* Acrylic sheets from www.modulor.de
