@@ -1,4 +1,4 @@
-all: milkymist-assemble-howto.pdf protocase_v7_laser.png
+all: milkymist-assemble-howto.pdf protocase_v7_laser.svg
 
 #
 # install fonts for example into ~/.fonts
@@ -9,15 +9,12 @@ milkymist-assemble-howto.pdf: milkymist-assemble-howto.svg
 	inkscape -A $@ $<
 
 TMP1 := $(shell mktemp)
-TMP2 := $(shell mktemp)
 
-# process with xsltproc to make the lines thicker and more visible in the PNG
-protocase_v7_laser.png: protocase_v7_laser.dxf
-	dia -e $(TMP1) -t dia $<
-	zcat $(TMP1) | xsltproc --stringparam line_width 0.5 dia_set_line_width.xsl - | gzip > $(TMP2)
-	dia -e $@ -t png -s x500 $(TMP2)
-	rm -f $(TMP1) $(TMP2)
+protocase_v7_laser.svg: protocase_v7_laser.dxf
+	dia -e $(TMP1) -t svg $<
+	sed -e 's/stroke-width: 0.02/stroke-width: 10/' $(TMP1) > $@
+	rm -f $(TMP1)
 
 clean:
 	rm -f milkymist-assemble-howto.pdf
-	rm -f protocase_v7_laser.png
+	rm -f protocase_v7_laser.svg
