@@ -40,9 +40,9 @@
      inkscape:window-height="1008"
      id="namedview3879"
      showgrid="false"
-     inkscape:zoom="1"
+     inkscape:zoom="0.5"
      inkscape:cx="453.94613"
-     inkscape:cy="411.66467"
+     inkscape:cy="494.80175"
      inkscape:window-x="0"
      inkscape:window-y="24"
      inkscape:window-maximized="1"
@@ -5255,7 +5255,7 @@
      style="display:inline">
     <g
        id="g6027-74-4"
-       transform="translate(125.684,44.95475)">
+       transform="translate(125.684,26.95475)">
       <path
          sodipodi:nodetypes="ccczcc"
          id="rect17600-64-3"
@@ -5274,7 +5274,7 @@
     </g>
     <g
        id="g6587"
-       transform="translate(12,70)">
+       transform="translate(12,56)">
       <g
          transform="translate(-22,8)"
          id="g6027">
@@ -5300,7 +5300,7 @@
          style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:3.99999991, 1.99999996;stroke-dashoffset:0;marker-start:url(#Arrow1Mstart);display:inline" />
     </g>
     <g
-       transform="translate(126.92903,233.61703)"
+       transform="translate(126.92903,215.61703)"
        style="display:inline"
        id="g6587-8">
       <g
@@ -5328,7 +5328,7 @@
          style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:3.99999991, 1.99999996;stroke-dashoffset:0;marker-start:url(#Arrow1Mstart);display:inline" />
     </g>
     <g
-       transform="translate(251.12993,194.92718)"
+       transform="translate(251.12993,174.92718)"
        style="display:inline"
        id="g6587-3">
       <g
@@ -5603,7 +5603,7 @@
     <g
        style="display:inline"
        id="g6027-74-4-7"
-       transform="translate(125.684,44.95476)">
+       transform="translate(125.684,26.95476)">
       <path
          sodipodi:nodetypes="ccczcc"
          id="rect17600-64-3-9"
@@ -5626,7 +5626,7 @@
        id="path6771"
        sodipodi:nodetypes="ccccc" />
     <g
-       transform="matrix(0.73912049,0,0,-0.73912049,231.77108,1198.2092)"
+       transform="matrix(0.73912049,0,0,-0.73912049,225.77108,1194.2092)"
        id="g10585">
       <g
          id="g10587"
@@ -8951,7 +8951,7 @@
        transform="matrix(0.88795448,0,0,1,25.357343,-100.59121)" />
     <path
        style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:3.99999991, 1.99999996;stroke-dashoffset:0;marker-start:url(#Arrow1Mstart);display:inline"
-       d="m 452.5718,683.86784 0,29.84838"
+       d="m 452.5718,665.86784 0,29.84838"
        id="path5529-0-1" />
     <path
        sodipodi:type="arc"
@@ -8962,7 +8962,7 @@
        sodipodi:rx="14.188966"
        sodipodi:ry="7.2915521"
        d="m 342.50586,677.3399 a 14.188966,7.2915521 0 1 1 -28.37793,0 14.188966,7.2915521 0 1 1 28.37793,0 z"
-       transform="matrix(0.88795448,0,0,1,140.28637,61.02582)" />
+       transform="matrix(0.88795448,0,0,1,140.28637,63.02582)" />
     <path
        sodipodi:type="arc"
        style="color:#000000;fill:none;stroke:#000000;stroke-width:0.46872771;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:1.40618314, 1.40618314;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
@@ -8983,6 +8983,10 @@
        sodipodi:ry="7.2915521"
        d="m 342.50586,677.3399 a 14.188966,7.2915521 0 1 1 -28.37793,0 14.188966,7.2915521 0 1 1 28.37793,0 z"
        transform="matrix(0.88795448,0,0,1,161.04134,-135.63646)" />
+    <path
+       style="color:#000000;fill:none;stroke:#000000;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:0.5, 0.5;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       d="m 452.5625,696.40625 c -6.65088,0 -12.09415,3.00122 -12.5625,6.78125 l -0.25,0 0,6.125 c 0,0 3.16755,8 12.8125,8 9.64495,0 12.84375,-8 12.84375,-8 l 0,-6.125 -0.28125,0 c -0.46835,-3.78003 -5.9116,-6.78125 -12.5625,-6.78125 z"
+       id="rect17600-64-3-3" />
     <path
        style="fill:none;stroke:#000000;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:0.5, 1;stroke-dashoffset:0;display:inline"
        d="M 281.16457,515.27413 467.26749,457.46511 597.75345,657.97636 411.65053,714.1129 281.16457,515.27413 z"
@@ -9033,438 +9037,434 @@
          id="flowPara17807"
          style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Yanone Kaffeesatz;-inkscape-font-specification:Yanone Kaffeesatz">A free and open, interactive VJ-Station<flowSpan
    style="font-size:16px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Yanone Kaffeesatz;-inkscape-font-specification:Yanone Kaffeesatz Light"
-   id="flowSpan6359"> milkymist.org</flowSpan></flowPara></flowRoot>    <g
-       id="g6899"
-       transform="matrix(0.98045241,0,0,0.98045241,-8.1986022,12.860606)">
-      <flowRoot
-         transform="matrix(0.88416077,0,0,0.88416077,-677.78718,188.05026)"
-         style="font-size:40px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
-         id="flowRoot17809"
-         xml:space="preserve"><flowRegion
-           id="flowRegion17811"><rect
-             y="878.94147"
-             x="824.53656"
-             height="159.23174"
-             width="484.0014"
-             id="rect17813" /></flowRegion><flowPara
-           id="flowPara8470"
-           style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Yanone Kaffeesatz;-inkscape-font-specification:Yanone Kaffeesatz">Case Design &amp; Realization:</flowPara><flowPara
-           id="flowPara8368"
-           style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Yanone Kaffeesatz;-inkscape-font-specification:Yanone Kaffeesatz">Manual:</flowPara><flowPara
-           id="flowPara4881"
-           style="font-size:14px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Yanone Kaffeesatz;-inkscape-font-specification:Yanone Kaffeesatz Light"><flowSpan
-   id="flowSpan8389"
-   style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Yanone Kaffeesatz;-inkscape-font-specification:Yanone Kaffeesatz">Font </flowSpan><flowSpan
-   id="flowSpan4873"
-   style="font-weight:normal;-inkscape-font-specification:Yanone Kaffeesatz">Yanone Kaffeesatz</flowSpan>:</flowPara></flowRoot>      <flowRoot
-         transform="translate(-43.99075,-488.72823)"
-         style="font-size:12px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
-         id="flowRoot16288"
-         xml:space="preserve"><flowRegion
-           id="flowRegion16290"><rect
-             style="font-size:12px"
-             y="787.59943"
-             x="95.314583"
-             height="649.90588"
-             width="273.44055"
-             id="rect16292" /></flowRegion><flowPara
-           style="font-size:18px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Yanone Kaffeesatz;-inkscape-font-specification:Yanone Kaffeesatz Bold"
-           id="flowPara16294">Part-list</flowPara><flowPara
-           style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Yanone Kaffeesatz;-inkscape-font-specification:Yanone Kaffeesatz"
-           id="flowPara16302"> </flowPara><flowPara
-           style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Yanone Kaffeesatz;-inkscape-font-specification:Yanone Kaffeesatz"
-           id="flowPara17734">2x cover-plate (bottom, top)</flowPara><flowPara
-           style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Yanone Kaffeesatz;-inkscape-font-specification:Yanone Kaffeesatz"
-           id="flowPara16306" /><flowPara
-           style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Yanone Kaffeesatz;-inkscape-font-specification:Yanone Kaffeesatz"
-           id="flowPara17732">4x side-plate</flowPara><flowPara
-           id="flowPara7428"
-           style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Yanone Kaffeesatz;-inkscape-font-specification:Yanone Kaffeesatz" /><flowPara
-           id="flowPara7430"
-           style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Yanone Kaffeesatz;-inkscape-font-specification:Yanone Kaffeesatz">1x shielding-sheet</flowPara><flowPara
-           style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Yanone Kaffeesatz;-inkscape-font-specification:Yanone Kaffeesatz"
-           id="flowPara17722" /><flowPara
-           style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Yanone Kaffeesatz;-inkscape-font-specification:Yanone Kaffeesatz"
-           id="flowPara16308">8x screw (black)</flowPara><flowPara
-           id="flowPara4644"
-           style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Yanone Kaffeesatz;-inkscape-font-specification:Yanone Kaffeesatz" /><flowPara
-           id="flowPara4646"
-           style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Yanone Kaffeesatz;-inkscape-font-specification:Yanone Kaffeesatz">2x screw (metal)</flowPara><flowPara
-           style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Yanone Kaffeesatz;-inkscape-font-specification:Yanone Kaffeesatz"
-           id="flowPara16310" /><flowPara
-           id="flowPara7035"
-           style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Yanone Kaffeesatz;-inkscape-font-specification:Yanone Kaffeesatz">4x screw (black)</flowPara><flowPara
-           id="flowPara7037"
-           style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Yanone Kaffeesatz;-inkscape-font-specification:Yanone Kaffeesatz" /><flowPara
-           style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Yanone Kaffeesatz;-inkscape-font-specification:Yanone Kaffeesatz"
-           id="flowPara17724">4x big spacer</flowPara><flowPara
-           style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Yanone Kaffeesatz;-inkscape-font-specification:Yanone Kaffeesatz"
-           id="flowPara16312" /><flowPara
-           id="flowPara4638"
-           style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Yanone Kaffeesatz;-inkscape-font-specification:Yanone Kaffeesatz">4x small spacer</flowPara><flowPara
-           id="flowPara4636"
-           style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Yanone Kaffeesatz;-inkscape-font-specification:Yanone Kaffeesatz" /><flowPara
-           style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Yanone Kaffeesatz;-inkscape-font-specification:Yanone Kaffeesatz"
-           id="flowPara17726">4x rubber foot</flowPara><flowPara
-           style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Yanone Kaffeesatz;-inkscape-font-specification:Yanone Kaffeesatz"
-           id="flowPara16320" /><flowPara
-           style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Yanone Kaffeesatz;-inkscape-font-specification:Yanone Kaffeesatz"
-           id="flowPara17728">3x button</flowPara><flowPara
-           style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Yanone Kaffeesatz;-inkscape-font-specification:Yanone Kaffeesatz"
-           id="flowPara16314" /><flowPara
-           style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Yanone Kaffeesatz;-inkscape-font-specification:Yanone Kaffeesatz"
-           id="flowPara17730" /><flowPara
-           id="flowPara8120"
-           style="font-size:18px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Yanone Kaffeesatz;-inkscape-font-specification:Yanone Kaffeesatz Bold">Instructions</flowPara><flowPara
-           id="flowPara7830"
-           style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Yanone Kaffeesatz;-inkscape-font-specification:Yanone Kaffeesatz"> </flowPara><flowPara
-           id="flowPara8118"
-           style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Yanone Kaffeesatz;-inkscape-font-specification:Yanone Kaffeesatz"><flowSpan
-   id="flowSpan6361"
-   style="font-size:14px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Yanone Kaffeesatz;-inkscape-font-specification:Yanone Kaffeesatz Bold">0. </flowSpan>Remove protective liners.</flowPara><flowPara
-           id="flowPara7828"
-           style="font-size:4px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Yanone Kaffeesatz;-inkscape-font-specification:Yanone Kaffeesatz"> </flowPara><flowPara
-           id="flowPara7061"
-           style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Yanone Kaffeesatz;-inkscape-font-specification:Yanone Kaffeesatz"><flowSpan
-   id="flowSpan6363"
-   style="font-size:14px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Yanone Kaffeesatz;-inkscape-font-specification:Yanone Kaffeesatz Bold">1. </flowSpan>If necessary, assemble buttons.</flowPara><flowPara
-           id="flowPara7065"
-           style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Yanone Kaffeesatz;-inkscape-font-specification:Yanone Kaffeesatz">Remove adhesive-liner from spacer (thinnest circle).</flowPara><flowPara
-           id="flowPara5515"
-           style="font-size:4px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Yanone Kaffeesatz;-inkscape-font-specification:Yanone Kaffeesatz"> </flowPara><flowPara
-           id="flowPara7071"
-           style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Yanone Kaffeesatz;-inkscape-font-specification:Yanone Kaffeesatz"><flowSpan
-   id="flowSpan6365"
-   style="font-size:14px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Yanone Kaffeesatz;-inkscape-font-specification:Yanone Kaffeesatz Bold">2. </flowSpan>Attach spacers from top- and bottom-side of the board.</flowPara><flowPara
-           id="flowPara7077"
-           style="font-size:4px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Yanone Kaffeesatz;-inkscape-font-specification:Yanone Kaffeesatz"> </flowPara><flowPara
-           id="flowPara8140"
-           style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Yanone Kaffeesatz;-inkscape-font-specification:Yanone Kaffeesatz"><flowSpan
-   id="flowSpan6367"
-   style="font-size:14px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Yanone Kaffeesatz;-inkscape-font-specification:Yanone Kaffeesatz Bold">3. </flowSpan>Place shielding-sheet (plastic-side up!) on the bottom-plate.</flowPara><flowPara
-           id="flowPara7083"
-           style="font-size:4px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Yanone Kaffeesatz;-inkscape-font-specification:Yanone Kaffeesatz"> </flowPara><flowPara
-           id="flowPara7085"
-           style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Yanone Kaffeesatz;-inkscape-font-specification:Yanone Kaffeesatz"><flowSpan
-   id="flowSpan6369"
-   style="font-size:14px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Yanone Kaffeesatz;-inkscape-font-specification:Yanone Kaffeesatz Bold">4. </flowSpan>Place board on the shielding-sheet and attach side-plates.  </flowPara><flowPara
-           id="flowPara11882"
-           style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Yanone Kaffeesatz;-inkscape-font-specification:Yanone Kaffeesatz">Use button-plate last while lifting the edge of the board.</flowPara><flowPara
-           id="flowPara8142"
-           style="font-size:4px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Yanone Kaffeesatz;-inkscape-font-specification:Yanone Kaffeesatz"> </flowPara><flowPara
-           id="flowPara8144"
-           style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Yanone Kaffeesatz;-inkscape-font-specification:Yanone Kaffeesatz"><flowSpan
-   id="flowSpan6371"
-   style="font-size:14px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Yanone Kaffeesatz;-inkscape-font-specification:Yanone Kaffeesatz Bold">5. </flowSpan>Attach top-plate, screws &amp; rubber feet.</flowPara><flowPara
-           id="flowPara8146"
-           style="font-size:4px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Yanone Kaffeesatz;-inkscape-font-specification:Yanone Kaffeesatz"> </flowPara><flowPara
-           id="flowPara8148"
-           style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Yanone Kaffeesatz;-inkscape-font-specification:Yanone Kaffeesatz"><flowSpan
-   id="flowSpan6373"
-   style="font-size:14px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Yanone Kaffeesatz;-inkscape-font-specification:Yanone Kaffeesatz Bold">n. </flowSpan>Have fun!</flowPara></flowRoot>      <rect
-         transform="matrix(0,1,1,0,0,0)"
-         y="140.44083"
-         x="550.86371"
-         height="55.922539"
-         width="7.0944767"
-         id="rect17407-22-5"
-         style="color:#000000;fill:#4d4d4d;fill-opacity:1;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+   id="flowSpan6359"> milkymist.org</flowSpan></flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot17809"
+       style="font-size:40px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+       transform="matrix(0.86687756,0,0,0.86687756,-672.73668,203.23494)"><flowRegion
+         id="flowRegion17811"><rect
+           id="rect17813"
+           width="484.0014"
+           height="159.23174"
+           x="824.53656"
+           y="878.94147" /></flowRegion><flowPara
+         style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Yanone Kaffeesatz;-inkscape-font-specification:Yanone Kaffeesatz"
+         id="flowPara8470">Case Design &amp; Realization:</flowPara><flowPara
+         style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Yanone Kaffeesatz;-inkscape-font-specification:Yanone Kaffeesatz"
+         id="flowPara8368">Manual:</flowPara><flowPara
+         style="font-size:14px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Yanone Kaffeesatz;-inkscape-font-specification:Yanone Kaffeesatz Light"
+         id="flowPara4881"><flowSpan
+   style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Yanone Kaffeesatz;-inkscape-font-specification:Yanone Kaffeesatz"
+   id="flowSpan8389">Font </flowSpan><flowSpan
+   style="font-weight:normal;-inkscape-font-specification:Yanone Kaffeesatz"
+   id="flowSpan4873">Yanone Kaffeesatz</flowSpan>:</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot16288"
+       style="font-size:12px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+       transform="matrix(0.98045241,0,0,0.98045241,-51.329439,-466.31416)"><flowRegion
+         id="flowRegion16290"><rect
+           id="rect16292"
+           width="273.44055"
+           height="649.90588"
+           x="95.314583"
+           y="787.59943"
+           style="font-size:12px" /></flowRegion><flowPara
+         id="flowPara16294"
+         style="font-size:18px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Yanone Kaffeesatz;-inkscape-font-specification:Yanone Kaffeesatz Bold">Part-list</flowPara><flowPara
+         id="flowPara16302"
+         style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Yanone Kaffeesatz;-inkscape-font-specification:Yanone Kaffeesatz"> </flowPara><flowPara
+         id="flowPara17734"
+         style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Yanone Kaffeesatz;-inkscape-font-specification:Yanone Kaffeesatz">2x cover-plate (bottom, top)</flowPara><flowPara
+         id="flowPara16306"
+         style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Yanone Kaffeesatz;-inkscape-font-specification:Yanone Kaffeesatz" /><flowPara
+         id="flowPara17732"
+         style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Yanone Kaffeesatz;-inkscape-font-specification:Yanone Kaffeesatz">4x side-plate</flowPara><flowPara
+         style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Yanone Kaffeesatz;-inkscape-font-specification:Yanone Kaffeesatz"
+         id="flowPara7428" /><flowPara
+         style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Yanone Kaffeesatz;-inkscape-font-specification:Yanone Kaffeesatz"
+         id="flowPara7430">1x shielding-sheet</flowPara><flowPara
+         id="flowPara17722"
+         style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Yanone Kaffeesatz;-inkscape-font-specification:Yanone Kaffeesatz" /><flowPara
+         id="flowPara16308"
+         style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Yanone Kaffeesatz;-inkscape-font-specification:Yanone Kaffeesatz">8x screw (black)</flowPara><flowPara
+         style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Yanone Kaffeesatz;-inkscape-font-specification:Yanone Kaffeesatz"
+         id="flowPara4644" /><flowPara
+         style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Yanone Kaffeesatz;-inkscape-font-specification:Yanone Kaffeesatz"
+         id="flowPara4646">2x screw (metal)</flowPara><flowPara
+         id="flowPara16310"
+         style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Yanone Kaffeesatz;-inkscape-font-specification:Yanone Kaffeesatz" /><flowPara
+         style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Yanone Kaffeesatz;-inkscape-font-specification:Yanone Kaffeesatz"
+         id="flowPara7035">4x screw (black)</flowPara><flowPara
+         style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Yanone Kaffeesatz;-inkscape-font-specification:Yanone Kaffeesatz"
+         id="flowPara7037" /><flowPara
+         id="flowPara17724"
+         style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Yanone Kaffeesatz;-inkscape-font-specification:Yanone Kaffeesatz">4x big spacer</flowPara><flowPara
+         id="flowPara16312"
+         style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Yanone Kaffeesatz;-inkscape-font-specification:Yanone Kaffeesatz" /><flowPara
+         style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Yanone Kaffeesatz;-inkscape-font-specification:Yanone Kaffeesatz"
+         id="flowPara4638">4x small spacer</flowPara><flowPara
+         style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Yanone Kaffeesatz;-inkscape-font-specification:Yanone Kaffeesatz"
+         id="flowPara4636" /><flowPara
+         id="flowPara17726"
+         style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Yanone Kaffeesatz;-inkscape-font-specification:Yanone Kaffeesatz">4x rubber foot</flowPara><flowPara
+         id="flowPara16320"
+         style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Yanone Kaffeesatz;-inkscape-font-specification:Yanone Kaffeesatz" /><flowPara
+         id="flowPara17728"
+         style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Yanone Kaffeesatz;-inkscape-font-specification:Yanone Kaffeesatz">3x button</flowPara><flowPara
+         id="flowPara16314"
+         style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Yanone Kaffeesatz;-inkscape-font-specification:Yanone Kaffeesatz" /><flowPara
+         id="flowPara17730"
+         style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Yanone Kaffeesatz;-inkscape-font-specification:Yanone Kaffeesatz" /><flowPara
+         style="font-size:18px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Yanone Kaffeesatz;-inkscape-font-specification:Yanone Kaffeesatz Bold"
+         id="flowPara8120">Instructions</flowPara><flowPara
+         style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Yanone Kaffeesatz;-inkscape-font-specification:Yanone Kaffeesatz"
+         id="flowPara7830"> </flowPara><flowPara
+         style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Yanone Kaffeesatz;-inkscape-font-specification:Yanone Kaffeesatz"
+         id="flowPara8118"><flowSpan
+   style="font-size:14px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Yanone Kaffeesatz;-inkscape-font-specification:Yanone Kaffeesatz Bold"
+   id="flowSpan6361">0. </flowSpan>Remove protective liners.</flowPara><flowPara
+         style="font-size:4px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Yanone Kaffeesatz;-inkscape-font-specification:Yanone Kaffeesatz"
+         id="flowPara7828"> </flowPara><flowPara
+         style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Yanone Kaffeesatz;-inkscape-font-specification:Yanone Kaffeesatz"
+         id="flowPara7061"><flowSpan
+   style="font-size:14px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Yanone Kaffeesatz;-inkscape-font-specification:Yanone Kaffeesatz Bold"
+   id="flowSpan6363">1. </flowSpan>If necessary, assemble buttons.</flowPara><flowPara
+         style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Yanone Kaffeesatz;-inkscape-font-specification:Yanone Kaffeesatz"
+         id="flowPara7065">Remove adhesive-liner from spacer (thinnest circle).</flowPara><flowPara
+         style="font-size:4px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Yanone Kaffeesatz;-inkscape-font-specification:Yanone Kaffeesatz"
+         id="flowPara5515"> </flowPara><flowPara
+         style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Yanone Kaffeesatz;-inkscape-font-specification:Yanone Kaffeesatz"
+         id="flowPara7071"><flowSpan
+   style="font-size:14px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Yanone Kaffeesatz;-inkscape-font-specification:Yanone Kaffeesatz Bold"
+   id="flowSpan6365">2. </flowSpan>Attach spacers from top- and bottom-side of the board.</flowPara><flowPara
+         style="font-size:4px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Yanone Kaffeesatz;-inkscape-font-specification:Yanone Kaffeesatz"
+         id="flowPara7077"> </flowPara><flowPara
+         style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Yanone Kaffeesatz;-inkscape-font-specification:Yanone Kaffeesatz"
+         id="flowPara8140"><flowSpan
+   style="font-size:14px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Yanone Kaffeesatz;-inkscape-font-specification:Yanone Kaffeesatz Bold"
+   id="flowSpan6367">3. </flowSpan>Place shielding-sheet (plastic-side up!) on the bottom-plate.</flowPara><flowPara
+         style="font-size:4px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Yanone Kaffeesatz;-inkscape-font-specification:Yanone Kaffeesatz"
+         id="flowPara7083"> </flowPara><flowPara
+         style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Yanone Kaffeesatz;-inkscape-font-specification:Yanone Kaffeesatz"
+         id="flowPara7085"><flowSpan
+   style="font-size:14px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Yanone Kaffeesatz;-inkscape-font-specification:Yanone Kaffeesatz Bold"
+   id="flowSpan6369">4. </flowSpan>Place board on the shielding-sheet and attach side-plates.  </flowPara><flowPara
+         style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Yanone Kaffeesatz;-inkscape-font-specification:Yanone Kaffeesatz"
+         id="flowPara11882">Use button-plate last while lifting the edge of the board.</flowPara><flowPara
+         style="font-size:4px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Yanone Kaffeesatz;-inkscape-font-specification:Yanone Kaffeesatz"
+         id="flowPara8142"> </flowPara><flowPara
+         style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Yanone Kaffeesatz;-inkscape-font-specification:Yanone Kaffeesatz"
+         id="flowPara8144"><flowSpan
+   style="font-size:14px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Yanone Kaffeesatz;-inkscape-font-specification:Yanone Kaffeesatz Bold"
+   id="flowSpan6371">5. </flowSpan>Attach top-plate, screws &amp; rubber feet.</flowPara><flowPara
+         style="font-size:4px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Yanone Kaffeesatz;-inkscape-font-specification:Yanone Kaffeesatz"
+         id="flowPara8146"> </flowPara><flowPara
+         style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Yanone Kaffeesatz;-inkscape-font-specification:Yanone Kaffeesatz"
+         id="flowPara8148"><flowSpan
+   style="font-size:14px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Yanone Kaffeesatz;-inkscape-font-specification:Yanone Kaffeesatz Bold"
+   id="flowSpan6373">n. </flowSpan>Have fun!</flowPara></flowRoot>    <rect
+       style="color:#000000;fill:#4d4d4d;fill-opacity:1;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="rect17407-22-5"
+       width="6.9557967"
+       height="54.829388"
+       x="552.95624"
+       y="129.49695"
+       transform="matrix(0,1,1,0,0,0)" />
+    <g
+       id="g5123"
+       transform="matrix(0.651647,0,0,0.651647,-264.79251,333.70348)">
+      <path
+         sodipodi:nodetypes="cscccccccsssscc"
+         id="path17480-7-4-7"
+         d="m 655.25335,172.68708 c 0,-1.03219 -0.87689,-3.01893 -1.82344,-4.1313 -0.59046,-0.69391 -1.63732,-1.46738 -2.62064,-1.93626 l -1.63741,-0.78076 -0.13514,1.56469 -0.13515,1.56469 -1.51507,0.0804 -1.51507,0.0804 -0.15764,-1.53641 c -0.0867,-0.84503 -0.21663,-1.59576 -0.28874,-1.66829 -0.0721,-0.0725 -0.87725,0.20495 -1.7892,0.61664 -1.96062,0.88508 -3.55345,2.56186 -4.17406,4.39406 -0.82678,2.44083 -1.48752,2.24754 7.68291,2.24754 7.66417,0 8.10865,-0.0272 8.10865,-0.49534 l 0,-6e-5 z"
+         style="fill:#000000;display:inline" />
       <g
-         transform="matrix(0.66463909,0,0,0.66463909,-261.7097,327.23962)"
-         id="g5123">
-        <path
-           style="fill:#000000;display:inline"
-           d="m 655.25335,172.68708 c 0,-1.03219 -0.87689,-3.01893 -1.82344,-4.1313 -0.59046,-0.69391 -1.63732,-1.46738 -2.62064,-1.93626 l -1.63741,-0.78076 -0.13514,1.56469 -0.13515,1.56469 -1.51507,0.0804 -1.51507,0.0804 -0.15764,-1.53641 c -0.0867,-0.84503 -0.21663,-1.59576 -0.28874,-1.66829 -0.0721,-0.0725 -0.87725,0.20495 -1.7892,0.61664 -1.96062,0.88508 -3.55345,2.56186 -4.17406,4.39406 -0.82678,2.44083 -1.48752,2.24754 7.68291,2.24754 7.66417,0 8.10865,-0.0272 8.10865,-0.49534 l 0,-6e-5 z"
-           id="path17480-7-4-7"
-           sodipodi:nodetypes="cscccccccsssscc" />
+         transform="translate(-41.672186,-0.34837202)"
+         id="g5049">
+        <rect
+           style="fill:#000000;fill-opacity:1;stroke:none"
+           id="rect4686"
+           width="8.5725002"
+           height="22.035862"
+           x="684.66687"
+           y="174.91258" />
         <g
-           id="g5049"
-           transform="translate(-41.672186,-0.34837202)">
-          <rect
-             y="174.91258"
-             x="684.66687"
-             height="22.035862"
-             width="8.5725002"
-             id="rect4686"
-             style="fill:#000000;fill-opacity:1;stroke:none" />
-          <g
-             id="g4824">
-            <path
-               style="fill:#ffffff;fill-opacity:1;stroke:none"
-               d="m 693.42199,181.85805 -1.95538,-1.07609 1.95539,-1.30342 -10e-6,2.37951 z"
-               id="rect4721"
-               sodipodi:nodetypes="cccc" />
-            <path
-               style="fill:#ffffff;fill-opacity:1;stroke:none;display:inline"
-               d="m 693.40718,184.17418 -1.95537,-1.0761 1.95539,-1.30341 -2e-5,2.37951 z"
-               id="rect4721-0"
-               sodipodi:nodetypes="cccc" />
-            <path
-               style="fill:#ffffff;fill-opacity:1;stroke:none;display:inline"
-               d="m 693.4093,186.53264 -1.95538,-1.07609 1.95539,-1.30342 -10e-6,2.37951 z"
-               id="rect4721-9"
-               sodipodi:nodetypes="cccc" />
-            <path
-               style="fill:#ffffff;fill-opacity:1;stroke:none;display:inline"
-               d="m 693.39449,188.84877 -1.95537,-1.0761 1.95539,-1.30341 -2e-5,2.37951 z"
-               id="rect4721-0-9"
-               sodipodi:nodetypes="cccc" />
-            <path
-               style="fill:#ffffff;fill-opacity:1;stroke:none;display:inline"
-               d="m 693.40457,191.2484 -1.95538,-1.07609 1.95539,-1.30342 -10e-6,2.37951 z"
-               id="rect4721-07"
-               sodipodi:nodetypes="cccc" />
-            <path
-               style="fill:#ffffff;fill-opacity:1;stroke:none;display:inline"
-               d="m 693.38976,193.56453 -1.95537,-1.0761 1.95539,-1.30341 -2e-5,2.37951 z"
-               id="rect4721-0-2"
-               sodipodi:nodetypes="cccc" />
-            <path
-               style="fill:#ffffff;fill-opacity:1;stroke:none;display:inline"
-               d="m 693.42199,195.85805 -1.95538,-1.07609 1.95539,-1.30342 -10e-6,2.37951 z"
-               id="rect4721-5"
-               sodipodi:nodetypes="cccc" />
-            <path
-               style="fill:#ffffff;fill-opacity:1;stroke:none;display:inline"
-               d="m 693.40718,198.17418 -1.95537,-1.0761 1.95539,-1.30341 -2e-5,2.37951 z"
-               id="rect4721-0-3"
-               sodipodi:nodetypes="cccc" />
-            <path
-               style="fill:#ffffff;fill-opacity:1;stroke:none;display:inline"
-               d="m 693.45683,177.19614 -1.95538,-1.07609 1.95539,-1.30342 -1e-5,2.37951 z"
-               id="rect4721-95"
-               sodipodi:nodetypes="cccc" />
-            <path
-               style="fill:#ffffff;fill-opacity:1;stroke:none;display:inline"
-               d="m 693.44202,179.51227 -1.95537,-1.0761 1.95539,-1.30341 -2e-5,2.37951 z"
-               id="rect4721-0-6"
-               sodipodi:nodetypes="cccc" />
-          </g>
-          <g
-             id="g4824-9"
-             style="display:inline"
-             transform="matrix(-1,0,0,1,1377.7764,-0.10450899)">
-            <path
-               style="fill:#ffffff;fill-opacity:1;stroke:none"
-               d="m 693.42199,181.85805 -1.95538,-1.07609 1.95539,-1.30342 -10e-6,2.37951 z"
-               id="rect4721-4"
-               sodipodi:nodetypes="cccc" />
-            <path
-               style="fill:#ffffff;fill-opacity:1;stroke:none;display:inline"
-               d="m 693.40718,184.17418 -1.95537,-1.0761 1.95539,-1.30341 -2e-5,2.37951 z"
-               id="rect4721-0-4"
-               sodipodi:nodetypes="cccc" />
-            <path
-               style="fill:#ffffff;fill-opacity:1;stroke:none;display:inline"
-               d="m 693.4093,186.53264 -1.95538,-1.07609 1.95539,-1.30342 -10e-6,2.37951 z"
-               id="rect4721-9-6"
-               sodipodi:nodetypes="cccc" />
-            <path
-               style="fill:#ffffff;fill-opacity:1;stroke:none;display:inline"
-               d="m 693.39449,188.84877 -1.95537,-1.0761 1.95539,-1.30341 -2e-5,2.37951 z"
-               id="rect4721-0-9-0"
-               sodipodi:nodetypes="cccc" />
-            <path
-               style="fill:#ffffff;fill-opacity:1;stroke:none;display:inline"
-               d="m 693.40457,191.2484 -1.95538,-1.07609 1.95539,-1.30342 -10e-6,2.37951 z"
-               id="rect4721-07-7"
-               sodipodi:nodetypes="cccc" />
-            <path
-               style="fill:#ffffff;fill-opacity:1;stroke:none;display:inline"
-               d="m 693.38976,193.56453 -1.95537,-1.0761 1.95539,-1.30341 -2e-5,2.37951 z"
-               id="rect4721-0-2-4"
-               sodipodi:nodetypes="cccc" />
-            <path
-               style="fill:#ffffff;fill-opacity:1;stroke:none;display:inline"
-               d="m 693.42199,195.85805 -1.95538,-1.07609 1.95539,-1.30342 -10e-6,2.37951 z"
-               id="rect4721-5-3"
-               sodipodi:nodetypes="cccc" />
-            <path
-               style="fill:#ffffff;fill-opacity:1;stroke:none;display:inline"
-               d="m 693.40718,198.17418 -1.95537,-1.0761 1.95539,-1.30341 -2e-5,2.37951 z"
-               id="rect4721-0-3-7"
-               sodipodi:nodetypes="cccc" />
-            <path
-               style="fill:#ffffff;fill-opacity:1;stroke:none;display:inline"
-               d="m 693.45683,177.19614 -1.95538,-1.07609 1.95539,-1.30342 -1e-5,2.37951 z"
-               id="rect4721-95-9"
-               sodipodi:nodetypes="cccc" />
-            <path
-               style="fill:#ffffff;fill-opacity:1;stroke:none;display:inline"
-               d="m 693.44202,179.51227 -1.95537,-1.0761 1.95539,-1.30341 -2e-5,2.37951 z"
-               id="rect4721-0-6-0"
-               sodipodi:nodetypes="cccc" />
-          </g>
+           id="g4824">
+          <path
+             sodipodi:nodetypes="cccc"
+             id="rect4721"
+             d="m 693.42199,181.85805 -1.95538,-1.07609 1.95539,-1.30342 -10e-6,2.37951 z"
+             style="fill:#ffffff;fill-opacity:1;stroke:none" />
+          <path
+             sodipodi:nodetypes="cccc"
+             id="rect4721-0"
+             d="m 693.40718,184.17418 -1.95537,-1.0761 1.95539,-1.30341 -2e-5,2.37951 z"
+             style="fill:#ffffff;fill-opacity:1;stroke:none;display:inline" />
+          <path
+             sodipodi:nodetypes="cccc"
+             id="rect4721-9"
+             d="m 693.4093,186.53264 -1.95538,-1.07609 1.95539,-1.30342 -10e-6,2.37951 z"
+             style="fill:#ffffff;fill-opacity:1;stroke:none;display:inline" />
+          <path
+             sodipodi:nodetypes="cccc"
+             id="rect4721-0-9"
+             d="m 693.39449,188.84877 -1.95537,-1.0761 1.95539,-1.30341 -2e-5,2.37951 z"
+             style="fill:#ffffff;fill-opacity:1;stroke:none;display:inline" />
+          <path
+             sodipodi:nodetypes="cccc"
+             id="rect4721-07"
+             d="m 693.40457,191.2484 -1.95538,-1.07609 1.95539,-1.30342 -10e-6,2.37951 z"
+             style="fill:#ffffff;fill-opacity:1;stroke:none;display:inline" />
+          <path
+             sodipodi:nodetypes="cccc"
+             id="rect4721-0-2"
+             d="m 693.38976,193.56453 -1.95537,-1.0761 1.95539,-1.30341 -2e-5,2.37951 z"
+             style="fill:#ffffff;fill-opacity:1;stroke:none;display:inline" />
+          <path
+             sodipodi:nodetypes="cccc"
+             id="rect4721-5"
+             d="m 693.42199,195.85805 -1.95538,-1.07609 1.95539,-1.30342 -10e-6,2.37951 z"
+             style="fill:#ffffff;fill-opacity:1;stroke:none;display:inline" />
+          <path
+             sodipodi:nodetypes="cccc"
+             id="rect4721-0-3"
+             d="m 693.40718,198.17418 -1.95537,-1.0761 1.95539,-1.30341 -2e-5,2.37951 z"
+             style="fill:#ffffff;fill-opacity:1;stroke:none;display:inline" />
+          <path
+             sodipodi:nodetypes="cccc"
+             id="rect4721-95"
+             d="m 693.45683,177.19614 -1.95538,-1.07609 1.95539,-1.30342 -1e-5,2.37951 z"
+             style="fill:#ffffff;fill-opacity:1;stroke:none;display:inline" />
+          <path
+             sodipodi:nodetypes="cccc"
+             id="rect4721-0-6"
+             d="m 693.44202,179.51227 -1.95537,-1.0761 1.95539,-1.30341 -2e-5,2.37951 z"
+             style="fill:#ffffff;fill-opacity:1;stroke:none;display:inline" />
+        </g>
+        <g
+           transform="matrix(-1,0,0,1,1377.7764,-0.10450899)"
+           style="display:inline"
+           id="g4824-9">
+          <path
+             sodipodi:nodetypes="cccc"
+             id="rect4721-4"
+             d="m 693.42199,181.85805 -1.95538,-1.07609 1.95539,-1.30342 -10e-6,2.37951 z"
+             style="fill:#ffffff;fill-opacity:1;stroke:none" />
+          <path
+             sodipodi:nodetypes="cccc"
+             id="rect4721-0-4"
+             d="m 693.40718,184.17418 -1.95537,-1.0761 1.95539,-1.30341 -2e-5,2.37951 z"
+             style="fill:#ffffff;fill-opacity:1;stroke:none;display:inline" />
+          <path
+             sodipodi:nodetypes="cccc"
+             id="rect4721-9-6"
+             d="m 693.4093,186.53264 -1.95538,-1.07609 1.95539,-1.30342 -10e-6,2.37951 z"
+             style="fill:#ffffff;fill-opacity:1;stroke:none;display:inline" />
+          <path
+             sodipodi:nodetypes="cccc"
+             id="rect4721-0-9-0"
+             d="m 693.39449,188.84877 -1.95537,-1.0761 1.95539,-1.30341 -2e-5,2.37951 z"
+             style="fill:#ffffff;fill-opacity:1;stroke:none;display:inline" />
+          <path
+             sodipodi:nodetypes="cccc"
+             id="rect4721-07-7"
+             d="m 693.40457,191.2484 -1.95538,-1.07609 1.95539,-1.30342 -10e-6,2.37951 z"
+             style="fill:#ffffff;fill-opacity:1;stroke:none;display:inline" />
+          <path
+             sodipodi:nodetypes="cccc"
+             id="rect4721-0-2-4"
+             d="m 693.38976,193.56453 -1.95537,-1.0761 1.95539,-1.30341 -2e-5,2.37951 z"
+             style="fill:#ffffff;fill-opacity:1;stroke:none;display:inline" />
+          <path
+             sodipodi:nodetypes="cccc"
+             id="rect4721-5-3"
+             d="m 693.42199,195.85805 -1.95538,-1.07609 1.95539,-1.30342 -10e-6,2.37951 z"
+             style="fill:#ffffff;fill-opacity:1;stroke:none;display:inline" />
+          <path
+             sodipodi:nodetypes="cccc"
+             id="rect4721-0-3-7"
+             d="m 693.40718,198.17418 -1.95537,-1.0761 1.95539,-1.30341 -2e-5,2.37951 z"
+             style="fill:#ffffff;fill-opacity:1;stroke:none;display:inline" />
+          <path
+             sodipodi:nodetypes="cccc"
+             id="rect4721-95-9"
+             d="m 693.45683,177.19614 -1.95538,-1.07609 1.95539,-1.30342 -1e-5,2.37951 z"
+             style="fill:#ffffff;fill-opacity:1;stroke:none;display:inline" />
+          <path
+             sodipodi:nodetypes="cccc"
+             id="rect4721-0-6-0"
+             d="m 693.44202,179.51227 -1.95537,-1.0761 1.95539,-1.30341 -2e-5,2.37951 z"
+             style="fill:#ffffff;fill-opacity:1;stroke:none;display:inline" />
         </g>
       </g>
-      <g
-         style="fill:#4d4d4d"
-         transform="translate(7.6126965,0)"
-         id="g8099">
-        <path
-           style="fill:#4d4d4d;fill-opacity:1;stroke:none"
-           d="m 157.9375,578.25 0,0.0625 1.09375,0.71875 -1.09375,0.59375 0,0.21875 1.09375,0.75 -1.09375,0.625 0,0.1875 1.125,0.75 -1.125,0.59375 0,0.1875 1.125,0.75 -1.125,0.625 0,0.1875 1.125,0.75 -1.125,0.59375 0,0.1875 1.125,0.75 -1.125,0.625 0,0.25 1.125,0.71875 -1.125,0.59375 0,0.1875 1.125,0.78125 -1.125,0.59375 0,0.1875 1.125,0.71875 -1.125,0.625 0,0.1875 0.96875,0.65625 3.6875,0 1.03125,-0.6875 0,-0.1875 -1.125,-0.59375 1.125,-0.75 0,-0.15625 -1.15625,-0.625 1.15625,-0.71875 0,-0.15625 -1.125,-0.65625 1.125,-0.78125 0,-0.1875 -1.15625,-0.625 L 163.625,586 l 0,-0.125 -1.125,-0.625 1.125,-0.75 0,-0.15625 -1.125,-0.65625 1.125,-0.78125 0,-0.1875 -1.125,-0.59375 1.125,-0.71875 0,-0.21875 -1.125,-0.59375 1.125,-0.75 0,-0.1875 -1.09375,-0.625 1.09375,-0.71875 0,-0.0625 -5.6875,0 z"
-           id="rect4686-5" />
-        <path
-           style="color:#000000;fill:#4d4d4d;fill-opacity:1;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-           d="m 157.24216,596.4856 7.09447,0 0,-10.62993 -7.09447,0 0,10.62993 z"
-           id="rect17407-22-1-7" />
-      </g>
+    </g>
+    <g
+       id="g8099"
+       transform="matrix(0.98045241,0,0,0.98045241,-0.73471557,12.860606)"
+       style="fill:#4d4d4d">
       <path
-         id="path5529-8"
-         d="m 226.07339,300.12669 0,379.57686"
-         style="fill:none;stroke:#000000;stroke-width:0.63746089;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;display:inline" />
+         id="rect4686-5"
+         d="m 157.9375,578.25 0,0.0625 1.09375,0.71875 -1.09375,0.59375 0,0.21875 1.09375,0.75 -1.09375,0.625 0,0.1875 1.125,0.75 -1.125,0.59375 0,0.1875 1.125,0.75 -1.125,0.625 0,0.1875 1.125,0.75 -1.125,0.59375 0,0.1875 1.125,0.75 -1.125,0.625 0,0.25 1.125,0.71875 -1.125,0.59375 0,0.1875 1.125,0.78125 -1.125,0.59375 0,0.1875 1.125,0.71875 -1.125,0.625 0,0.1875 0.96875,0.65625 3.6875,0 1.03125,-0.6875 0,-0.1875 -1.125,-0.59375 1.125,-0.75 0,-0.15625 -1.15625,-0.625 1.15625,-0.71875 0,-0.15625 -1.125,-0.65625 1.125,-0.78125 0,-0.1875 -1.15625,-0.625 L 163.625,586 l 0,-0.125 -1.125,-0.625 1.125,-0.75 0,-0.15625 -1.125,-0.65625 1.125,-0.78125 0,-0.1875 -1.125,-0.59375 1.125,-0.71875 0,-0.21875 -1.125,-0.59375 1.125,-0.75 0,-0.1875 -1.09375,-0.625 1.09375,-0.71875 0,-0.0625 -5.6875,0 z"
+         style="fill:#4d4d4d;fill-opacity:1;stroke:none" />
       <path
-         id="path17480-0-7"
-         d="m 168.82154,496.56385 c 0.22387,-0.58686 0.13437,-1.67321 -0.14679,-1.78174 -0.21227,-0.0819 -0.26428,0.0514 -0.25434,0.65191 0.007,0.41521 0.0729,0.91008 0.14679,1.09973 0.12461,0.31997 0.14293,0.32214 0.25434,0.0301 z m 0.31171,-2.923 c -0.11991,-0.74212 -0.54795,-0.96647 -0.9919,-0.51989 -0.36871,0.37089 -0.34678,0.42963 0.31103,0.83308 0.77435,0.47493 0.80588,0.46042 0.68087,-0.31319 z m 0.27211,-1.40342 c -0.0594,-0.15568 -0.10798,-0.55832 -0.10798,-0.89474 0,-0.57977 -0.0325,-0.61169 -0.62263,-0.61169 -0.34245,0 -0.62264,0.0805 -0.62264,0.17895 0,0.0984 -0.12007,0.17895 -0.26684,0.17895 -0.60267,0 -0.10121,0.6188 0.92512,1.14159 0.7111,0.36222 0.83096,0.36342 0.69497,0.007 z m 0.15824,-2.35644 c -0.0702,-0.17223 -0.16922,-0.65539 -0.22006,-1.07369 -0.0909,-0.74771 -0.10403,-0.76053 -0.78087,-0.76053 -0.49336,0 -0.68844,0.0761 -0.68844,0.26842 0,0.14764 -0.12009,0.26842 -0.26685,0.26842 -0.14677,0 -0.26684,0.0665 -0.26684,0.14776 0,0.36068 1.61606,1.46279 2.14493,1.46279 0.126,0 0.15628,-0.12142 0.0781,-0.31317 z m 0.40141,-2.49501 c -0.18541,-0.20906 -0.35712,-0.79625 -0.42561,-1.45537 l -0.11481,-1.10491 -0.79183,0 c -0.64224,0 -0.80942,0.0676 -0.88489,0.35789 -0.0515,0.19808 -0.24265,0.3579 -0.42808,0.3579 -1.08681,0 0.78848,1.53849 2.51128,2.06025 0.43082,0.13048 0.43501,0.12373 0.13394,-0.21576 z m 0.17866,-3.14187 c -0.1441,-0.22145 -0.31978,-0.94619 -0.39041,-1.61053 l -0.12841,-1.2079 -1.0532,0 c -0.93462,0 -1.05322,0.0403 -1.05322,0.35789 0,0.23497 -0.11859,0.3579 -0.34529,0.3579 -0.6151,0 -0.55655,0.305 0.18852,0.98212 0.71198,0.64703 2.31541,1.51791 2.80119,1.52141 0.19942,0.001 0.19599,-0.0702 -0.0192,-0.40089 z m 3.60109,-4.21815 c 0,-0.67935 -0.57714,-1.98696 -1.20013,-2.71908 -0.38862,-0.45671 -1.07763,-0.96579 -1.72482,-1.27439 l -1.07769,-0.51387 -0.0889,1.02983 -0.089,1.02983 -0.99717,0.0529 -0.99717,0.0529 -0.10375,-1.01122 c -0.0571,-0.55617 -0.14258,-1.05027 -0.19004,-1.09801 -0.0474,-0.0477 -0.57738,0.13489 -1.17759,0.40585 -1.29042,0.58253 -2.33877,1.68614 -2.74724,2.89203 -0.54416,1.60648 -0.97903,1.47926 5.05665,1.47926 5.04431,0 5.33685,-0.0179 5.33685,-0.32602 z"
-         style="fill:#808080;display:inline" />
+         id="rect17407-22-1-7"
+         d="m 157.24216,596.4856 7.09447,0 0,-10.62993 -7.09447,0 0,10.62993 z"
+         style="color:#000000;fill:#4d4d4d;fill-opacity:1;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+    </g>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.62500006;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;display:inline"
+       d="m 213.4556,307.12054 0,372.15705"
+       id="path5529-8" />
+    <path
+       style="fill:#808080;display:inline"
+       d="m 157.32288,499.71783 c 0.2195,-0.57539 0.13175,-1.6405 -0.14392,-1.74691 -0.20812,-0.0803 -0.25911,0.0504 -0.24937,0.63916 0.007,0.4071 0.0715,0.8923 0.14393,1.07824 0.12217,0.31371 0.14013,0.31584 0.24936,0.0295 z m 0.30562,-2.86586 c -0.11757,-0.72762 -0.53724,-0.94758 -0.97251,-0.50973 -0.3615,0.36364 -0.34,0.42123 0.30495,0.81679 0.75921,0.46565 0.79013,0.45142 0.66756,-0.30706 z m 0.26679,-1.37599 c -0.0582,-0.15264 -0.10587,-0.54741 -0.10587,-0.87725 0,-0.56844 -0.0319,-0.59973 -0.61046,-0.59973 -0.33575,0 -0.61047,0.0789 -0.61047,0.17545 0,0.0965 -0.11772,0.17545 -0.26162,0.17545 -0.59089,0 -0.0992,0.60671 0.90704,1.11928 0.6972,0.35514 0.81471,0.35631 0.68138,0.007 z m 0.15515,-2.31038 c -0.0688,-0.16886 -0.16591,-0.64258 -0.21576,-1.0527 -0.0891,-0.73309 -0.102,-0.74566 -0.76561,-0.74566 -0.48371,0 -0.67498,0.0746 -0.67498,0.26317 0,0.14475 -0.11774,0.26317 -0.26163,0.26317 -0.1439,0 -0.26163,0.0652 -0.26163,0.14488 0,0.35363 1.58447,1.43419 2.10301,1.43419 0.12353,0 0.15322,-0.11904 0.0766,-0.30705 z m 0.39356,-2.44624 c -0.18178,-0.20497 -0.35014,-0.78068 -0.41729,-1.42692 l -0.11256,-1.08331 -0.77636,0 c -0.62968,0 -0.79359,0.0663 -0.86759,0.3509 -0.0505,0.1942 -0.23791,0.3509 -0.41971,0.3509 -1.06557,0 0.77307,1.50842 2.46219,2.01998 0.4224,0.12793 0.42651,0.12131 0.13132,-0.21155 z m 0.17517,-3.08045 c -0.14128,-0.21712 -0.31353,-0.92769 -0.38278,-1.57905 l -0.1259,-1.18429 -1.03261,0 c -0.91635,0 -1.03263,0.0395 -1.03263,0.3509 0,0.23038 -0.11628,0.3509 -0.33854,0.3509 -0.60308,0 -0.54567,0.29904 0.18483,0.96292 0.69806,0.63439 2.27015,1.48824 2.74643,1.49167 0.19553,9.8e-4 0.19216,-0.0688 -0.0188,-0.39305 z m 3.5307,-4.13569 c 0,-0.66608 -0.56586,-1.94812 -1.17667,-2.66593 -0.38103,-0.44779 -1.05657,-0.94691 -1.69111,-1.24948 l -1.05662,-0.50383 -0.0872,1.0097 -0.0873,1.0097 -0.97768,0.0519 -0.97768,0.0519 -0.10172,-0.99145 c -0.056,-0.5453 -0.13979,-1.02974 -0.18633,-1.07655 -0.0465,-0.0468 -0.56609,0.13226 -1.15457,0.39792 -1.26519,0.57114 -2.29305,1.65318 -2.69354,2.8355 -0.53352,1.57508 -0.95989,1.45034 4.95781,1.45034 4.9457,0 5.23253,-0.0176 5.23253,-0.31964 z"
+       id="path17480-0-7" />
+    <g
+       id="g5006"
+       transform="matrix(0.98045241,0,0,0.98045241,0.02935442,30.508749)">
       <g
-         transform="translate(8.392,18)"
-         id="g5006">
+         transform="translate(-539.74763,279.77279)"
+         id="g5335">
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.54371333;display:inline"
+           d="m 727.49541,359.46855 a 6.4930435,8.7919179 38.79403 1 0 -14.96025,4.58774 6.4930435,8.7919179 38.79403 0 0 14.96025,-4.58774 z"
+           id="path3237-1-0-7-5" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.34639704;display:inline"
+           d="m 725.85596,361.27557 a 4.1366879,5.6012903 38.794031 1 0 -9.53112,2.92283 4.1366879,5.6012903 38.794031 1 0 9.53112,-2.92283 z"
+           id="path3237-1-6-1" />
         <g
-           id="g5335"
-           transform="translate(-539.74763,279.77279)">
+           style="fill:#ffffff;display:inline"
+           id="g5271-7"
+           transform="translate(97.074135,4.9436455)">
           <path
-             id="path3237-1-0-7-5"
-             d="m 727.49541,359.46855 a 6.4930435,8.7919179 38.79403 1 0 -14.96025,4.58774 6.4930435,8.7919179 38.79403 0 0 14.96025,-4.58774 z"
+             id="path3237-1-6-6-0"
+             d="m 628.17531,355.56551 a 4.1366879,5.6012903 38.794031 1 0 -9.53112,2.92283 4.1366879,5.6012903 38.794031 1 0 9.53112,-2.92283 z"
+             style="fill:#ffffff;stroke:#000000;stroke-width:0.34639704;display:inline" />
+          <path
+             id="path3237-1-2-5-0-6"
+             d="m 628.81206,356.37721 a 4.1366879,5.6012903 38.794031 1 0 -9.53112,2.92283 4.1366879,5.6012903 38.794031 1 0 9.53112,-2.92283 z"
+             style="fill:#ffffff;stroke:#000000;stroke-width:0.34639704;display:inline" />
+        </g>
+        <path
+           style="fill:#ffffff;stroke:#000000;stroke-width:0.34639704;display:inline"
+           d="m 727.6075,363.20206 a 4.1366879,5.6012903 38.794031 1 0 -9.53112,2.92283 4.1366879,5.6012903 38.794031 1 0 9.53112,-2.92283 z"
+           id="path3237-1-2-5-59" />
+      </g>
+      <g
+         id="g4991">
+        <g
+           id="g8197"
+           transform="translate(8,2)">
+          <path
+             id="path3237-1-0-7"
+             d="m 135.51208,633.89888 a 6.4930435,8.7919179 38.79403 1 0 -14.96025,4.58774 6.4930435,8.7919179 38.79403 0 0 14.96025,-4.58774 z"
              style="fill:none;stroke:#000000;stroke-width:0.54371333;display:inline" />
-          <path
-             id="path3237-1-6-1"
-             d="m 725.85596,361.27557 a 4.1366879,5.6012903 38.794031 1 0 -9.53112,2.92283 4.1366879,5.6012903 38.794031 1 0 9.53112,-2.92283 z"
-             style="fill:none;stroke:#000000;stroke-width:0.34639704;display:inline" />
           <g
-             transform="translate(97.074135,4.9436455)"
-             id="g5271-7"
-             style="fill:#ffffff;display:inline">
+             style="fill:#ffffff"
+             transform="translate(-489.6805,285.42297)"
+             id="g5271">
             <path
                style="fill:#ffffff;stroke:#000000;stroke-width:0.34639704;display:inline"
                d="m 628.17531,355.56551 a 4.1366879,5.6012903 38.794031 1 0 -9.53112,2.92283 4.1366879,5.6012903 38.794031 1 0 9.53112,-2.92283 z"
-               id="path3237-1-6-6-0" />
+               id="path3237-1-6-6" />
             <path
                style="fill:#ffffff;stroke:#000000;stroke-width:0.34639704;display:inline"
                d="m 628.81206,356.37721 a 4.1366879,5.6012903 38.794031 1 0 -9.53112,2.92283 4.1366879,5.6012903 38.794031 1 0 9.53112,-2.92283 z"
-               id="path3237-1-2-5-0-6" />
+               id="path3237-1-2-5-0" />
           </g>
-          <path
-             id="path3237-1-2-5-59"
-             d="m 727.6075,363.20206 a 4.1366879,5.6012903 38.794031 1 0 -9.53112,2.92283 4.1366879,5.6012903 38.794031 1 0 9.53112,-2.92283 z"
-             style="fill:#ffffff;stroke:#000000;stroke-width:0.34639704;display:inline" />
+          <g
+             style="fill:#ffffff"
+             transform="translate(-504.33613,291.92324)"
+             id="g5275">
+            <path
+               style="fill:#ffffff;stroke:#000000;stroke-width:0.34639704;display:inline"
+               d="m 648.17531,355.56572 a 4.1366879,5.6012903 38.794031 1 0 -9.53112,2.92283 4.1366879,5.6012903 38.794031 1 0 9.53112,-2.92283 z"
+               id="path3237-1-6" />
+            <path
+               style="fill:#ffffff;stroke:#000000;stroke-width:0.34639704;display:inline"
+               d="m 649.92685,357.49221 a 4.1366879,5.6012903 38.794031 1 0 -9.53112,2.92283 4.1366879,5.6012903 38.794031 1 0 9.53112,-2.92283 z"
+               id="path3237-1-2-5" />
+          </g>
         </g>
         <g
-           id="g4991">
-          <g
-             transform="translate(8,2)"
-             id="g8197">
-            <path
-               style="fill:none;stroke:#000000;stroke-width:0.54371333;display:inline"
-               d="m 135.51208,633.89888 a 6.4930435,8.7919179 38.79403 1 0 -14.96025,4.58774 6.4930435,8.7919179 38.79403 0 0 14.96025,-4.58774 z"
-               id="path3237-1-0-7" />
-            <g
-               id="g5271"
-               transform="translate(-489.6805,285.42297)"
-               style="fill:#ffffff">
-              <path
-                 id="path3237-1-6-6"
-                 d="m 628.17531,355.56551 a 4.1366879,5.6012903 38.794031 1 0 -9.53112,2.92283 4.1366879,5.6012903 38.794031 1 0 9.53112,-2.92283 z"
-                 style="fill:#ffffff;stroke:#000000;stroke-width:0.34639704;display:inline" />
-              <path
-                 id="path3237-1-2-5-0"
-                 d="m 628.81206,356.37721 a 4.1366879,5.6012903 38.794031 1 0 -9.53112,2.92283 4.1366879,5.6012903 38.794031 1 0 9.53112,-2.92283 z"
-                 style="fill:#ffffff;stroke:#000000;stroke-width:0.34639704;display:inline" />
-            </g>
-            <g
-               id="g5275"
-               transform="translate(-504.33613,291.92324)"
-               style="fill:#ffffff">
-              <path
-                 id="path3237-1-6"
-                 d="m 648.17531,355.56572 a 4.1366879,5.6012903 38.794031 1 0 -9.53112,2.92283 4.1366879,5.6012903 38.794031 1 0 9.53112,-2.92283 z"
-                 style="fill:#ffffff;stroke:#000000;stroke-width:0.34639704;display:inline" />
-              <path
-                 id="path3237-1-2-5"
-                 d="m 649.92685,357.49221 a 4.1366879,5.6012903 38.794031 1 0 -9.53112,2.92283 4.1366879,5.6012903 38.794031 1 0 9.53112,-2.92283 z"
-                 style="fill:#ffffff;stroke:#000000;stroke-width:0.34639704;display:inline" />
-            </g>
-          </g>
-          <g
-             id="g4936">
-            <path
-               style="fill:none;stroke:#000000;stroke-width:0.63746089;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:5.09968665, 2.54984331;stroke-dashoffset:0;display:inline"
-               d="m 124.303,625.77599 6.95272,7.59548"
-               id="path5529-2" />
-            <path
-               style="fill:none;stroke:#000000;stroke-width:0.63746089;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:5.09968662, 2.54984329;stroke-dashoffset:0;display:inline"
-               d="m 135.60686,638.03869 3.17369,3.49591"
-               id="path5529-2-9" />
-            <path
-               style="fill:none;stroke:#000000;stroke-width:0.63746089;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:5.0996866, 2.54984328;stroke-dashoffset:0;display:inline"
-               d="m 142.15797,645.14547 2.06066,2.28846"
-               id="path5529-2-4" />
-            <path
-               style="fill:none;stroke:#000000;stroke-width:0.63746089;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:5.09968665, 2.54984331;stroke-dashoffset:0;display:inline"
-               d="m 149.35134,652.94901 12.97916,14.13311"
-               id="path5529-2-2" />
-          </g>
+           id="g4936">
+          <path
+             id="path5529-2"
+             d="m 124.303,625.77599 6.95272,7.59548"
+             style="fill:none;stroke:#000000;stroke-width:0.63746089;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:5.09968665, 2.54984331;stroke-dashoffset:0;display:inline" />
+          <path
+             id="path5529-2-9"
+             d="m 135.60686,638.03869 3.17369,3.49591"
+             style="fill:none;stroke:#000000;stroke-width:0.63746089;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:5.09968662, 2.54984329;stroke-dashoffset:0;display:inline" />
+          <path
+             id="path5529-2-4"
+             d="m 142.15797,645.14547 2.06066,2.28846"
+             style="fill:none;stroke:#000000;stroke-width:0.63746089;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:5.0996866, 2.54984328;stroke-dashoffset:0;display:inline" />
+          <path
+             id="path5529-2-2"
+             d="m 149.35134,652.94901 12.97916,14.13311"
+             style="fill:none;stroke:#000000;stroke-width:0.63746089;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:5.09968665, 2.54984331;stroke-dashoffset:0;display:inline" />
         </g>
       </g>
-      <path
-         id="path17480-0-7-2"
-         d="m 168.82154,530.56385 c 0.22387,-0.58686 0.13437,-1.67321 -0.14679,-1.78174 -0.21227,-0.0819 -0.26428,0.0514 -0.25434,0.65191 0.007,0.41521 0.0729,0.91008 0.14679,1.09973 0.12461,0.31997 0.14293,0.32214 0.25434,0.0301 z m 0.31171,-2.923 c -0.11991,-0.74212 -0.54795,-0.96647 -0.9919,-0.51989 -0.36871,0.37089 -0.34678,0.42963 0.31103,0.83308 0.77435,0.47493 0.80588,0.46042 0.68087,-0.31319 z m 0.27211,-1.40342 c -0.0594,-0.15568 -0.10798,-0.55832 -0.10798,-0.89474 0,-0.57977 -0.0325,-0.61169 -0.62263,-0.61169 -0.34245,0 -0.62264,0.0805 -0.62264,0.17895 0,0.0984 -0.12007,0.17895 -0.26684,0.17895 -0.60267,0 -0.10121,0.6188 0.92512,1.14159 0.7111,0.36222 0.83096,0.36342 0.69497,0.007 z m 0.15824,-2.35644 c -0.0702,-0.17223 -0.16922,-0.65539 -0.22006,-1.07369 -0.0909,-0.74771 -0.10403,-0.76053 -0.78087,-0.76053 -0.49336,0 -0.68844,0.0761 -0.68844,0.26842 0,0.14764 -0.12009,0.26842 -0.26685,0.26842 -0.14677,0 -0.26684,0.0665 -0.26684,0.14776 0,0.36068 1.61606,1.46279 2.14493,1.46279 0.126,0 0.15628,-0.12142 0.0781,-0.31317 z m 0.40141,-2.49501 c -0.18541,-0.20906 -0.35712,-0.79625 -0.42561,-1.45537 l -0.11481,-1.10491 -0.79183,0 c -0.64224,0 -0.80942,0.0676 -0.88489,0.35789 -0.0515,0.19808 -0.24265,0.3579 -0.42808,0.3579 -1.08681,0 0.78848,1.53849 2.51128,2.06025 0.43082,0.13048 0.43501,0.12373 0.13394,-0.21576 z m 0.17866,-3.14187 c -0.1441,-0.22145 -0.31978,-0.94619 -0.39041,-1.61053 l -0.12841,-1.2079 -1.0532,0 c -0.93462,0 -1.05322,0.0403 -1.05322,0.35789 0,0.23497 -0.11859,0.3579 -0.34529,0.3579 -0.6151,0 -0.55655,0.305 0.18852,0.98212 0.71198,0.64703 2.31541,1.51791 2.80119,1.52141 0.19942,10e-4 0.19599,-0.0702 -0.0192,-0.40089 z m 3.60109,-4.21815 c 0,-0.67935 -0.57714,-1.98696 -1.20013,-2.71908 -0.38862,-0.45671 -1.07763,-0.96579 -1.72482,-1.27439 l -1.07769,-0.51387 -0.0889,1.02983 -0.089,1.02983 -0.99717,0.0529 -0.99717,0.0529 -0.10375,-1.01122 c -0.0571,-0.55617 -0.14258,-1.05027 -0.19004,-1.09801 -0.0474,-0.0477 -0.57738,0.13489 -1.17759,0.40585 -1.29042,0.58253 -2.33877,1.68614 -2.74724,2.89203 -0.54416,1.60648 -0.97903,1.47926 5.05665,1.47926 5.04431,0 5.33685,-0.0179 5.33685,-0.32602 z"
-         style="fill:#000000;display:inline" />
-      <g
-         id="g6027-5"
-         style="display:inline"
-         transform="translate(-158.48571,-57.948276)">
-        <path
-           style="color:#000000;fill:#808080;fill-opacity:1;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-           d="m 314.06771,676.23516 25.64018,0 0,6.13135 c 0,0 -3.17514,8 -12.82009,8 -9.64495,0 -12.82009,-8 -12.82009,-8 l 0,-6.13135 z"
-           id="rect17600-7"
-           sodipodi:nodetypes="ccczcc" />
-        <path
-           sodipodi:type="arc"
-           style="color:#000000;fill:#b3b3b3;stroke:none;stroke-width:0.46872771;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-           id="path6003-2-3"
-           sodipodi:cx="328.31689"
-           sodipodi:cy="677.3399"
-           sodipodi:rx="14.188966"
-           sodipodi:ry="7.2915521"
-           d="m 342.50586,677.3399 c 0,4.02702 -6.35262,7.29156 -14.18897,7.29156 -7.83634,0 -14.18896,-3.26454 -14.18896,-7.29156 0,-4.02701 6.35262,-7.29155 14.18896,-7.29155 7.83635,0 14.18897,3.26454 14.18897,7.29155 z"
-           transform="matrix(0.88795448,0,0,1,35.357343,-0.59120591)" />
-      </g>
-      <flowRoot
-         transform="matrix(0.88416077,0,0,0.88416077,-569.78718,188.05026)"
-         style="font-size:40px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Bitstream Vera Sans"
-         id="flowRoot17809-5"
-         xml:space="preserve"><flowRegion
-           id="flowRegion17811-3"><rect
-             y="878.94147"
-             x="824.53656"
-             height="159.23174"
-             width="484.0014"
-             id="rect17813-3" /></flowRegion><flowPara
-           id="flowPara4871-9"
-           style="font-size:14px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Yanone Kaffeesatz;-inkscape-font-specification:Yanone Kaffeesatz Light"><flowSpan
-             id="flowSpan8150-5"
-             style="font-size:14px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Yanone Kaffeesatz;-inkscape-font-specification:Yanone Kaffeesatz Bold"><flowSpan
-   id="flowSpan8387-5"
-   style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:CC Icons;-inkscape-font-specification:CC Icons">c b a </flowSpan>roh </flowSpan><flowSpan
-             id="flowSpan8364-2"
-             style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Yanone Kaffeesatz;-inkscape-font-specification:Yanone Kaffeesatz">raumfahrtagentur.org </flowSpan></flowPara><flowPara
-           id="flowPara8368-0"
-           style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Yanone Kaffeesatz;-inkscape-font-specification:Yanone Kaffeesatz"><flowSpan
-   id="flowSpan8372-7"
-   style="font-size:14px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Yanone Kaffeesatz;-inkscape-font-specification:Yanone Kaffeesatz Bold"><flowSpan
-   id="flowSpan7290"
-   style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:CC Icons;-inkscape-font-specification:CC Icons">c b a </flowSpan>wetterfrosch</flowSpan> stadtwerkeberlin.de</flowPara><flowPara
-           id="flowPara4881-9"
-           style="font-size:14px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Yanone Kaffeesatz;-inkscape-font-specification:Yanone Kaffeesatz Light"><flowSpan
-             id="flowSpan4877-6"
-             style="font-weight:bold;-inkscape-font-specification:Yanone Kaffeesatz Bold"><flowSpan
-   id="flowSpan7288"
-   style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;font-family:CC Icons;-inkscape-font-specification:CC Icons">c b   </flowSpan>Jan Gerner</flowSpan><flowSpan
-             id="flowSpan8366-2"
-             style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Yanone Kaffeesatz;-inkscape-font-specification:Yanone Kaffeesatz"> yanone.de</flowSpan></flowPara></flowRoot>    </g>
+    </g>
     <path
+       style="fill:#000000;display:inline"
+       d="m 157.32288,533.05321 c 0.2195,-0.57539 0.13175,-1.6405 -0.14392,-1.74691 -0.20812,-0.0803 -0.25911,0.0504 -0.24937,0.63917 0.007,0.40709 0.0715,0.89229 0.14393,1.07823 0.12217,0.31372 0.14013,0.31584 0.24936,0.0295 z m 0.30562,-2.86586 c -0.11757,-0.72761 -0.53724,-0.94758 -0.97251,-0.50973 -0.3615,0.36364 -0.34,0.42123 0.30495,0.8168 0.75921,0.46564 0.79013,0.45142 0.66756,-0.30707 z m 0.26679,-1.37599 c -0.0582,-0.15263 -0.10587,-0.5474 -0.10587,-0.87725 0,-0.56843 -0.0319,-0.59973 -0.61046,-0.59973 -0.33575,0 -0.61047,0.0789 -0.61047,0.17545 0,0.0965 -0.11772,0.17545 -0.26162,0.17545 -0.59089,0 -0.0992,0.60671 0.90704,1.11928 0.6972,0.35514 0.81471,0.35631 0.68138,0.007 z m 0.15515,-2.31037 c -0.0688,-0.16887 -0.16591,-0.64258 -0.21576,-1.05271 -0.0891,-0.73309 -0.102,-0.74566 -0.76561,-0.74566 -0.48371,0 -0.67498,0.0746 -0.67498,0.26317 0,0.14476 -0.11774,0.26318 -0.26163,0.26318 -0.1439,0 -0.26163,0.0652 -0.26163,0.14487 0,0.35363 1.58447,1.43419 2.10301,1.43419 0.12353,0 0.15322,-0.11904 0.0766,-0.30704 z m 0.39356,-2.44624 c -0.18178,-0.20498 -0.35014,-0.78069 -0.41729,-1.42692 l -0.11256,-1.08332 -0.77636,0 c -0.62968,0 -0.79359,0.0663 -0.86759,0.3509 -0.0505,0.19421 -0.23791,0.3509 -0.41971,0.3509 -1.06557,0 0.77307,1.50842 2.46219,2.01998 0.4224,0.12793 0.42651,0.12131 0.13132,-0.21154 z m 0.17517,-3.08046 c -0.14128,-0.21712 -0.31353,-0.92769 -0.38278,-1.57905 l -0.1259,-1.18428 -1.03261,0 c -0.91635,0 -1.03263,0.0395 -1.03263,0.35089 0,0.23038 -0.11628,0.3509 -0.33854,0.3509 -0.60308,0 -0.54567,0.29904 0.18483,0.96293 0.69806,0.63438 2.27015,1.48823 2.74643,1.49167 0.19553,9.8e-4 0.19216,-0.0688 -0.0188,-0.39306 z m 3.5307,-4.13569 c 0,-0.66607 -0.56586,-1.94812 -1.17667,-2.66593 -0.38103,-0.44778 -1.05657,-0.94691 -1.69111,-1.24948 l -1.05662,-0.50383 -0.0872,1.0097 -0.0873,1.0097 -0.97768,0.0519 -0.97768,0.0519 -0.10172,-0.99146 c -0.056,-0.5453 -0.13979,-1.02974 -0.18633,-1.07654 -0.0465,-0.0468 -0.56609,0.13225 -1.15457,0.39791 -1.26519,0.57115 -2.29305,1.65318 -2.69354,2.8355 -0.53352,1.57508 -0.95989,1.45034 4.95781,1.45034 4.9457,0 5.23253,-0.0175 5.23253,-0.31964 z"
+       id="path17480-0-7-2" />
+    <g
+       transform="matrix(0.98045241,0,0,0.98045241,-163.5863,-43.954921)"
+       style="display:inline"
+       id="g6027-5">
+      <path
+         sodipodi:nodetypes="ccczcc"
+         id="rect17600-7"
+         d="m 314.06771,676.23516 25.64018,0 0,6.13135 c 0,0 -3.17514,8 -12.82009,8 -9.64495,0 -12.82009,-8 -12.82009,-8 l 0,-6.13135 z"
+         style="color:#000000;fill:#808080;fill-opacity:1;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+      <path
+         transform="matrix(0.88795448,0,0,1,35.357343,-0.59120591)"
+         d="m 342.50586,677.3399 c 0,4.02702 -6.35262,7.29156 -14.18897,7.29156 -7.83634,0 -14.18896,-3.26454 -14.18896,-7.29156 0,-4.02701 6.35262,-7.29155 14.18896,-7.29155 7.83635,0 14.18897,3.26454 14.18897,7.29155 z"
+         sodipodi:ry="7.2915521"
+         sodipodi:rx="14.188966"
+         sodipodi:cy="677.3399"
+         sodipodi:cx="328.31689"
+         id="path6003-2-3"
+         style="color:#000000;fill:#b3b3b3;stroke:none;stroke-width:0.46872771;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         sodipodi:type="arc" />
+    </g>
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot17809-5"
+       style="font-size:40px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Bitstream Vera Sans"
+       transform="matrix(0.86687756,0,0,0.86687756,-566.84782,203.23494)"><flowRegion
+         id="flowRegion17811-3"><rect
+           id="rect17813-3"
+           width="484.0014"
+           height="159.23174"
+           x="824.53656"
+           y="878.94147" /></flowRegion><flowPara
+         style="font-size:14px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Yanone Kaffeesatz;-inkscape-font-specification:Yanone Kaffeesatz Light"
+         id="flowPara4871-9"><flowSpan
+           style="font-size:14px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Yanone Kaffeesatz;-inkscape-font-specification:Yanone Kaffeesatz Bold"
+           id="flowSpan8150-5"><flowSpan
+   style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:CC Icons;-inkscape-font-specification:CC Icons"
+   id="flowSpan8387-5">c b a </flowSpan>roh </flowSpan><flowSpan
+           style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Yanone Kaffeesatz;-inkscape-font-specification:Yanone Kaffeesatz"
+           id="flowSpan8364-2">raumfahrtagentur.org </flowSpan></flowPara><flowPara
+         style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Yanone Kaffeesatz;-inkscape-font-specification:Yanone Kaffeesatz"
+         id="flowPara8368-0"><flowSpan
+   style="font-size:14px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Yanone Kaffeesatz;-inkscape-font-specification:Yanone Kaffeesatz Bold"
+   id="flowSpan8372-7"><flowSpan
+   style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:CC Icons;-inkscape-font-specification:CC Icons"
+   id="flowSpan7290">c b a </flowSpan>wetterfrosch</flowSpan> stadtwerkeberlin.de</flowPara><flowPara
+         style="font-size:14px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Yanone Kaffeesatz;-inkscape-font-specification:Yanone Kaffeesatz Light"
+         id="flowPara4881-9"><flowSpan
+           style="font-weight:bold;-inkscape-font-specification:Yanone Kaffeesatz Bold"
+           id="flowSpan4877-6"><flowSpan
+   style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;font-family:CC Icons;-inkscape-font-specification:CC Icons"
+   id="flowSpan7288">c b   </flowSpan>Jan Gerner</flowSpan><flowSpan
+           style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Yanone Kaffeesatz;-inkscape-font-specification:Yanone Kaffeesatz"
+           id="flowSpan8366-2"> yanone.de</flowSpan></flowPara></flowRoot>    <path
        style="fill:none;stroke:#000000;stroke-width:0.60000002;stroke-miterlimit:4;stroke-dasharray:0.6, 0.6;stroke-dashoffset:0;display:inline"
        d="m 290.11472,461.97722 0,0.0625 1.09375,0.71875 -1.09375,0.59375 0,0.21875 1.09375,0.75 -1.09375,0.625 0,0.1875 1.125,0.75 -1.125,0.59375 0,0.1875 1.125,0.75 -1.125,0.625 0,0.1875 1.125,0.75 -1.125,0.59375 -0.6875,0 0,10.65625 7.09375,0 0,-10.65625 -0.78125,0 -1.0625,-0.59375 1.125,-0.75 0,-0.15625 -1.125,-0.65625 1.125,-0.78125 0,-0.1875 -1.125,-0.59375 1.125,-0.71875 0,-0.21875 -1.125,-0.59375 1.125,-0.75 0,-0.1875 -1.09375,-0.625 1.09375,-0.71875 0,-0.0625 -5.6875,0 z"
        id="rect4686-5-0-4-6-0-4" />
@@ -9538,10 +9538,6 @@
        x="288.85709"
        y="-390.48108"
        transform="scale(1,-1)" />
-    <path
-       style="color:#000000;fill:none;stroke:#000000;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:0.5, 0.5;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-       d="m 452.5625,714.40625 c -6.65088,0 -12.09415,3.00122 -12.5625,6.78125 l -0.25,0 0,6.125 c 0,0 3.16755,8 12.8125,8 9.64495,0 12.84375,-8 12.84375,-8 l 0,-6.125 -0.28125,0 c -0.46835,-3.78003 -5.9116,-6.78125 -12.5625,-6.78125 z"
-       id="rect17600-64-3-3" />
   </g>
   <g
      inkscape:groupmode="layer"
