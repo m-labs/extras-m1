@@ -1,7 +1,9 @@
 all: milkymist-assemble-howto.pdf protocase_v7_laser.png
 
 #
-# Install the Yanone Kaffeesatz font from http://www.yanone.de/
+# install fonts for example into ~/.fonts
+#  1) Yanone Kaffeesatz font from http://www.yanone.de/
+#  2) cc-icons.ttf
 #
 milkymist-assemble-howto.pdf: milkymist-assemble-howto.svg
 	inkscape -A $@ $<
