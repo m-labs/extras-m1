@@ -65,18 +65,12 @@ D: http://www.sullinscorp.com/catalogs/78_Page80-81_HEADER_.100_2.54mm_FEMALE.pd
 
 N: uart_header_3m
 A: P1_lowprofile_3.8mm
-D: http://multimedia.3m.com/mws/mediawebserver?mwsId=66666UuZjcFSLXTt4XftLxz6EVuQEcuZgVs6EVs6E666666--
-
-N: uart_header_tyco
 A: P1
-D: http://documents.tycoelectronics.com/commerce/DocumentDelivery/DDEController?Action=srchrtrv&DocNm=535541&DocType=CD&DocLang=EN
-
-N: jtag_header_3m
-A: P2
-D: http://multimedia.3m.com/mws/mediawebserver?66666UuZjcFSLXTt4XfXl8z6EVuQEcuZgVs6EVs6E666666--
+D: http://multimedia.3m.com/mws/mediawebserver?mwsId=66666UuZjcFSLXTt4XftLxz6EVuQEcuZgVs6EVs6E666666--
 
 N: jtag_header_molex
 A: P2_molex
+A: P2
 D: http://www.molex.com/pdm_docs/sd/791091006_sd.pdf
 
 N: cap-33pf-0402
