@@ -66,6 +66,13 @@
        inkscape:vp_y="0 : 1000 : 0"
        inkscape:vp_x="0 : 12.5 : 1"
        sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective2938"
+       inkscape:persp3d-origin="210.2435 : 199.01333 : 1"
+       inkscape:vp_z="420.487 : 298.51999 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 298.51999 : 1"
+       sodipodi:type="inkscape:persp3d" />
   </defs>
   <sodipodi:namedview
      id="base"
@@ -75,8 +82,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1.979899"
-     inkscape:cx="276.80547"
-     inkscape:cy="866.99807"
+     inkscape:cx="265.81603"
+     inkscape:cy="835.14602"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -178,17 +185,17 @@
        xml:space="preserve"
        style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Yanone Kaffeesatz;-inkscape-font-specification:Yanone Kaffeesatz"
        x="43.659912"
-       y="171.631"
+       y="185.631"
        id="text2826"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan2828"
          x="43.659912"
-         y="171.631">Visit: milkymist.org/thankyou</tspan></text>
+         y="185.631">Visit: milkymist.org/thankyou</tspan></text>
     <g
        id="layer1-4"
        inkscape:label="Layer 1"
-       transform="matrix(0.5412224,0,0,0.5412224,338.86812,128.8619)">
+       transform="matrix(0.6001563,0,0,0.6001563,338.86737,128.86047)">
       <g
          inkscape:export-ydpi="300.23013"
          inkscape:export-xdpi="300.23013"
@@ -258,7 +265,7 @@
     </g>
     <g
        id="g3011"
-       transform="matrix(0.1375966,0,0,0.1375966,322.55856,155.02973)">
+       transform="matrix(0.1375966,0,0,0.1375966,324.55856,155.02973)">
       <g
          id="g3">
         <path
@@ -370,5 +377,30 @@
          id="tspan3408"
          x="43.233505"
          y="216.21219">Power: DC 5V +/-5% 2A TIP+</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Yanone Kaffeesatz;-inkscape-font-specification:Yanone Kaffeesatz"
+       x="199.15228"
+       y="253.29346"
+       id="text2875"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan2877"
+         x="199.15228"
+         y="253.29346">Made in: sourcemap.org/trace/Milkymist-One</tspan></text>
+    <path
+       id="path2930"
+       d="m 450.69297,127.50991 h -4.98262 v 0.78329 h 4.98262 v -0.78329 z m -14.23676,2.43173 c -0.77091,0.41884 -1.37012,0.93035 -1.70097,1.55448 h 1.70097 v -1.55448 z m 25.86925,7.45393 -1.87708,1.91196 -0.0907,0.97235 h 2.25292 v -2.88431 h -0.28515 z m -16.94141,15.27731 -9.69875,-10.2309 1.58994,18.48264 8.10881,-8.25174 z m 1.91836,0.0252 9.27208,9.76508 1.9242,-20.64716 h -0.18977 v -0.32943 l -11.00651,11.21151 z m -11.80432,-12.43186 10.84934,11.42619 6.41738,-6.53027 h -9.04757 v -3.41675 h 10.46395 v 1.97531 l 4.12773,-4.20033 v -3.66091 h 0.74485 l 0.24074,-2.58406 h -24.39776 l 0.60134,6.99082 z m 26.19413,29.60959 c 0.0447,0.26679 0.068,0.54084 0.068,0.82045 0,2.7176 -2.20295,4.92041 -4.92041,4.92041 -1.88704,0 -3.52608,-1.06218 -4.35152,-2.62136 h -12.03267 v 2.57039 h -3.16576 v -2.57694 c -0.37072,-0.0521 -0.72635,-0.4046 -0.75809,-0.77432 l -0.67595,-7.85669 -16.77072,17.08278 -1.00253,-0.98517 17.61593,-17.92628 -1.899,-22.07637 -16.75857,-17.67814 v -1.94684 l 16.57169,17.45278 -0.43664,-5.07587 h -2.05802 v -1.70838 h 1.81073 c 0.0312,-0.096 0.0725,-0.20814 0.12671,-0.33342 0.60206,-1.39161 1.84562,-2.38646 3.40095,-3.09415 v -1.1291 h 2.91919 v 0.17468 c 1.52089,-0.3495 3.12889,-0.53956 4.62671,-0.63608 v -0.67652 h 8.39938 v 4.1999 h -8.39938 v -1.77415 c -1.48785,0.11119 -3.13017,0.31435 -4.62671,0.6704 v 2.59844 h 19.85191 c -0.77901,-1.83821 -3.80811,-2.69895 -6.82596,-3.08917 v -1.73956 c 3.02881,0.37542 6.14204,1.22235 7.70493,3.05202 0.41698,-0.53088 1.06488,-0.87198 1.79237,-0.87198 1.25808,0 2.27783,1.01975 2.27783,2.27783 0,1.25794 -1.01975,2.27784 -2.27783,2.27784 -0.3132,0 -0.61175,-0.0632 -0.88337,-0.17767 l -0.24558,2.63374 h 1.13692 l 14.9967,-15.26093 v 1.94784 l -13.06979,13.31295 h 0.27205 v 5.95683 h -3.89097 l -2.07767,22.29261 15.36899,16.18616 -1.01962,0.96766 -10.79423,-11.38662 z m -9.77306,0.82045 c 0,-2.52242 1.89786,-4.60152 4.34355,-4.8871 l 0.14094,-1.51206 -10.06505,-10.61727 -8.90634,9.07205 0.73418,8.53519 h 13.78774 c -0.0231,-0.19376 -0.035,-0.39093 -0.035,-0.59081 z m 2.36155,0 c 0,1.41326 1.14561,2.55901 2.559,2.55901 1.41326,0 2.55901,-1.14575 2.55901,-2.55901 0,-1.4134 -1.14575,-2.55901 -2.55901,-2.55901 -1.41339,0 -2.559,1.14561 -2.559,2.55901 z m 0.89704,0 c 0,-0.91783 0.74414,-1.66197 1.66196,-1.66197 0.91783,0 1.66197,0.74414 1.66197,1.66197 0,0.91783 -0.74414,1.66182 -1.66197,1.66182 -0.91782,0 -1.66196,-0.74399 -1.66196,-1.66182 z m -33.31379,22.84684 h 49.49639 v 12.05274 H 421.86396 V 193.5431 z" />
+    <text
+       xml:space="preserve"
+       style="font-size:8px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Yanone Kaffeesatz;-inkscape-font-specification:Yanone Kaffeesatz"
+       x="42.426407"
+       y="150.29597"
+       id="text2942"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan2944"
+         x="42.426407"
+         y="150.29597">proud work of the revolutionary forces working towards open devices on planet earth</tspan></text>
   </g>
 </svg>
