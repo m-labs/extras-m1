@@ -23,7 +23,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -40,9 +40,9 @@
      inkscape:window-height="1008"
      id="namedview3879"
      showgrid="false"
-     inkscape:zoom="0.5"
+     inkscape:zoom="1.4142136"
      inkscape:cx="453.94613"
-     inkscape:cy="494.80175"
+     inkscape:cy="381.66466"
      inkscape:window-x="0"
      inkscape:window-y="24"
      inkscape:window-maximized="1"
@@ -9126,11 +9126,9 @@
          style="font-size:4px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Yanone Kaffeesatz;-inkscape-font-specification:Yanone Kaffeesatz"
          id="flowPara7828"> </flowPara><flowPara
          style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Yanone Kaffeesatz;-inkscape-font-specification:Yanone Kaffeesatz"
-         id="flowPara7061"><flowSpan
+         id="flowPara7065"><flowSpan
    style="font-size:14px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Yanone Kaffeesatz;-inkscape-font-specification:Yanone Kaffeesatz Bold"
-   id="flowSpan6363">1. </flowSpan>If necessary, assemble buttons.</flowPara><flowPara
-         style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Yanone Kaffeesatz;-inkscape-font-specification:Yanone Kaffeesatz"
-         id="flowPara7065">Remove adhesive-liner from spacer (thinnest circle).</flowPara><flowPara
+   id="flowSpan6363">1. </flowSpan>If necessary, assemble buttons with glue or adhesive tape.</flowPara><flowPara
          style="font-size:4px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Yanone Kaffeesatz;-inkscape-font-specification:Yanone Kaffeesatz"
          id="flowPara5515"> </flowPara><flowPara
          style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Yanone Kaffeesatz;-inkscape-font-specification:Yanone Kaffeesatz"
