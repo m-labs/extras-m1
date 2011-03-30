@@ -3,12 +3,12 @@
  2 | 1 | bottom Shielding | 149 mm by 124 mm metal sheet, 99.5% aluminum, 0.2mm thickness or: AlMg3, 0.3mm thickness
  3 | 4 | top spacers | 30mm long metal spacer, with 2x internal 3mm thread
  4 | 4 | bottom spacers | 5mm long metal spacer, with 1x internal 3mm thread, 1x external 3mm thread
- 5 | 8 | Metric screws top/bottom | M3x5 flat head
- 6 | 2 | Metal screws video in | ST2.2x13
- 7 | 4 | Metal screws dmx in/out | ST2.9x10
+ 5 | 8 | Metric screws top/bottom | DIN912 M3x6 flat head
+ 6 | 2 | Metal screws video in | DIN7981 ST2.2x13
+ 7 | 4 | Metal screws dmx in/out | DIN7981 ST2.9x10
  8 | 3 | Button spacer | 0.5mm Acryllic
  9 | 3 | Button holder | 1.0mm Acryllic
-10 | 4 | rubber feet | clear rubber
+10 | 4 | rubber feet | clear rubber 3.5 X 12.7
 
 Notes
 -----
@@ -21,7 +21,6 @@ You can either use EN AW-1050A / EN AW-Al 99,5 in 0.2 mm thickness.
 Or EN AW-5754 / EN AW-Al Mg 3 in 0.3mm thickness, which will give you
 slightly better mechanical stability.
 
-We are using normal packing tape for insulation towards the PCB for
-now, until we find a better solution.
+the electric insulation of the shield is adhesive cutting plotter foil. (oracal 751C - cast)
 
 * Acrylic sheets from www.modulor.de
