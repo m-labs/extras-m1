@@ -1,5 +1,6 @@
 usb_jtag.rpt
 usb_jtag.lst
+usb_jtag.000
 usb_jtagFront.pos
 usb_jtagBack.pos
 $savepcb.000
