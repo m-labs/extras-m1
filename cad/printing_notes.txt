@@ -1,0 +1,7 @@
+m1_bottom_product_label.sla
+ select item in top left
+ multiple duplicate: 7-1-1-1
+ export to .pdf
+box_artwork.sla
+ use inkscape to import box.dxf and save as temporary .svg file
+ import .svg file into scribus as outline of design
