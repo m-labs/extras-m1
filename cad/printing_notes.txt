@@ -1,7 +1,66 @@
-m1_bottom_product_label.sla
- select item in top left
- multiple duplicate: 7-1-1-1
- export to .pdf
+
+We use desktop publishing software Scribus to design the box
+artwork and labels (file extension: .sla).
+Please install Scribus 1.4.
+http://en.wikipedia.org/wiki/Scribus
+
+We will attempt to make the Scribus files as print-ready as
+possible, including CMYK color information, and documentation
+on how to create the final PDF file for printing.
+
+
+
+--- box_artwork.sla
+
+box.dxf is the outline used for the box die-cutting. We import
+it into Inkscape to then save as a temporary .svg file, which we
+can then import into Scribus as the initial outline in
 box_artwork.sla
- use inkscape to import box.dxf and save as temporary .svg file
- import .svg file into scribus as outline of design
+
+Steps to create print-ready box_artwork.pdf:
+
+** open box_artwork.sla with Scribus
+** select die-cut outline, Item -> Delete
+** File -> Export -> Save as PDF...
+    Save
+** File -> Close (discard changes)
+
+
+
+--- m1_bottom_product_label.sla
+
+This is the main product label to be glued on the bottom side
+of each Milkymist One.
+Steps to create print-ready m1_bottom_product_label.pdf:
+
+** open m1_bottom_product_label.sla with Scribus
+** select label in top left of page
+** Item -> Multiple Duplicate
+    By Rows & Columns tab
+     Number of Rows: 7
+     Number of Columns: 3
+     Horizontal Gap: 1 mm
+     Vertical Gap: 1 mm
+    OK
+** File -> Export -> Save as PDF...
+    Save
+** File -> Close (discard changes)
+
+
+
+--- m1_bottom_mac_address.sla
+
+The MAC address label is meant to be glued right below the product
+label on the bottom of of each Milkymist One. It should have the
+same width as the product label.
+This is a separate label to go with the copyleft hardware philosophy
+that all serial numbers should be documented and easily removable.
+By making it a separate label, it is removable without also having
+to remove the product label.
+
+Steps to create print-ready m1_bottom_mac_address.pdf:
+
+** open m1_bottom_mac_address.sla with Scribus
+** File -> Export -> Save as PDF...
+    Save
+** File -> Close (discard changes)
