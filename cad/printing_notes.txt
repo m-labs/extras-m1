@@ -64,3 +64,27 @@ Steps to create print-ready m1_bottom_mac_address.pdf:
 ** File -> Export -> Save as PDF...
     Save
 ** File -> Close (discard changes)
+
+
+
+--- m1_12v_power_flag.sla & m1_5v_power_flag.sla
+
+Both labels are meant to be wrapped around the DC cable of the 12V
+and 5V power supplies, maybe 3-5 cm away from the DC jack. The middle
+part of the label is wrapped around the DC cable, the rest is glued
+back to back forming a flag.
+
+Steps to create print-ready m1_12v_power_flag.pdf & m1_5v_power_flag.pdf:
+
+** open m1_bottom_mac_address.sla with Scribus
+** select label in top left of page
+** Item -> Multiple Duplicate
+    By Rows & Columns tab
+     Number of Rows: 30
+     Number of Columns: 3
+     Horizontal Gap: 1 mm
+     Vertical Gap: 1 mm
+    OK
+** File -> Export -> Save as PDF...
+    Save
+** File -> Close (discard changes)
