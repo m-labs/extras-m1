@@ -88,3 +88,23 @@ Steps to create print-ready m1_12v_power_flag.pdf & m1_5v_power_flag.pdf:
 ** File -> Export -> Save as PDF...
     Save
 ** File -> Close (discard changes)
+
+
+--- m1_made_in.sla
+
+Made in label needs to be on the outside of the retail box.
+
+Steps to create print-ready m1_made_in.pdf:
+
+** open m1_made_in.sla with Scribus
+** select label in top left of page
+** Item -> Multiple Duplicate
+    By Rows & Columns tab
+     Number of Rows: 38
+     Number of Columns: 6
+     Horizontal Gap: 1 mm
+     Vertical Gap: 1 mm
+    OK
+** File -> Export -> Save as PDF...
+    Save
+** File -> Close (discard changes)
