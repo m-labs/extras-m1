@@ -20,7 +20,6 @@ box_artwork.sla
 Steps to create print-ready box_artwork.pdf:
 
 ** open box_artwork.sla with Scribus
-** select die-cut outline, Item -> Delete
 ** File -> Export -> Save as PDF...
     Save
 ** File -> Close (discard changes)
@@ -76,7 +75,7 @@ back to back forming a flag.
 
 Steps to create print-ready m1_12v_power_flag.pdf & m1_5v_power_flag.pdf:
 
-** open m1_bottom_mac_address.sla with Scribus
+** open m1_12v_power_flag.sla or m1_5v_power_flag.sla with Scribus
 ** select label in top left of page
 ** Item -> Multiple Duplicate
     By Rows & Columns tab

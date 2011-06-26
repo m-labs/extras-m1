@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg
+   xmlns:ns="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://web.resource.org/cc/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="320"
+   height="240"
+   id="CE_label"
+   sodipodi:version="0.32"
+   inkscape:version="0.45.1"
+   version="1.0"
+   sodipodi:docname="CE_Logo.svg"
+   inkscape:output_extension="org.inkscape.output.svg.inkscape"
+   style=""
+   sodipodi:docbase="C:\Users\UGent\Desktop">
+  <defs
+     id="defs3">
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 120 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="320 : 120 : 1"
+       inkscape:persp3d-origin="160 : 80 : 1"
+       id="perspective15" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.76875"
+     inkscape:cx="160"
+     inkscape:cy="120"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="true"
+     width="32px"
+     objecttolerance="5"
+     gridtolerance="20"
+     guidetolerance="5"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:snap-guide="true"
+     inkscape:window-width="848"
+     inkscape:window-height="575"
+     inkscape:window-x="46"
+     inkscape:window-y="46">
+    <inkscape:grid
+       type="xygrid"
+       id="grid2403"
+       visible="true"
+       enabled="true"
+       spacingx="10px"
+       spacingy="10px"
+       originx="0px" />
+    <sodipodi:guide
+       orientation="1,0"
+       position="130,148"
+       id="guide2407" />
+    <sodipodi:guide
+       orientation="0,1"
+       position="122,120"
+       id="guide2409" />
+    <sodipodi:guide
+       orientation="1,0"
+       position="120,220"
+       id="guide3211" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <ns:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>CE label, CE-Kennzeichen</dc:title>
+        <dc:creator>
+          <ns:Agent>
+            <dc:title>Matthias Krüger</dc:title>
+          </ns:Agent>
+        </dc:creator>
+        <ns:license
+           rdf:resource="http://creativecommons.org/licenses/publicdomain/" />
+      </ns:Work>
+      <ns:License
+         rdf:about="http://creativecommons.org/licenses/publicdomain/">
+        <ns:permits
+           rdf:resource="http://creativecommons.org/ns#Reproduction" />
+        <ns:permits
+           rdf:resource="http://creativecommons.org/ns#Distribution" />
+        <ns:permits
+           rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+      </ns:License>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="Hilfslinien"
+     style="display:none">
+    <path
+       sodipodi:type="arc"
+       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-opacity:0.5"
+       id="path2388"
+       sodipodi:cx="120"
+       sodipodi:cy="120"
+       sodipodi:rx="70"
+       sodipodi:ry="70"
+       d="M 190 120 A 70 70 0 1 1  50,120 A 70 70 0 1 1  190 120 z" />
+    <path
+       sodipodi:type="arc"
+       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-opacity:0.5"
+       id="path3160"
+       sodipodi:cx="120"
+       sodipodi:cy="120"
+       sodipodi:rx="100"
+       sodipodi:ry="100"
+       d="M 220 120 A 100 100 0 1 1  20,120 A 100 100 0 1 1  220 120 z" />
+  </g>
+  <g
+     inkscape:label="Ebene 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     style="display:inline">
+    <path
+       id="path_C"
+       style="fill:#000000;fill-opacity:1;stroke:none"
+       d="M 130,189.2859 C 126.75354,189.75647 123.5,190 120,190 C 81.36,190 50,158.64 50,120 C 50,81.36 81.36,50 120,50 C 123.5,50 126.75354,50.243526 130,50.714099 L 130,20.5 C 126.71378,20.167608 123.5,20 120,20 C 64.8,20 20,64.8 20,120 C 20,175.2 64.8,220 120,220 C 123.5,220 126.71378,219.83239 130.00444,219.50505 L 130,189.2859 z "
+       sodipodi:nodetypes="csssccsssc" />
+    <path
+       sodipodi:nodetypes="csssccsssc"
+       d="M 300,189.2859 C 296.75354,189.75647 293.5,190 290,190 C 251.36,190 220,158.64 220,120 C 220,81.36 251.36,50 290,50 C 293.5,50 296.75354,50.243526 300,50.714099 L 300,20.5 C 296.71378,20.167608 293.5,20 290,20 C 234.8,20 190,64.8 190,120 C 190,175.2 234.8,220 290,220 C 293.5,220 296.71378,219.83239 300.00444,219.50505 L 300,189.2859 z "
+       style="fill:#000000;fill-opacity:1;stroke:none"
+       id="path_E" />
+    <rect
+       style="fill:#000000;fill-opacity:1;stroke:none"
+       id="rect_E"
+       width="80"
+       height="30"
+       x="200"
+       y="105" />
+  </g>
+</svg>
