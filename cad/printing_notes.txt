@@ -10,13 +10,44 @@ on how to create the final PDF file for printing.
 
 
 
---- box_artwork.sla
+--- box_artwork_base.sla
 
 box.dxf is the outline used for the box die-cutting. Import into
 Inkscape - note that you need to uncheck 'Use automatic scaling to
 size A4' and a scaling factor of 1.0. Then save as a temporary
 .svg file which can then be imported into Scribus to form the
-initial outline for box_artwork.sla.
+initial outline for box_artwork_base.sla.
+
+box_artwork_base.sla is the start point of creating a new fresh
+artwork for Milkymist One box. It is created by imorting the .svg
+file refered above in Scribus.
+
+Steps to create box_artwork_base.sla
+
+** Launch Scribus or if scribus is already launched, go to File -> New
+** In New Document window
+   * Set Default Unit to 'Millimeters (mm)'
+   * Size choose 'Custom'. Width set to '905.000 mm', Height to '684.000 mm'
+   * In Margin Guides - Preset Layouts, set all for sides to '15.000 mm'
+   * Hit OK button.
+** File -> Import -> Get Vector File...
+** Select created temp .svg file refered above.
+** When file is imported, somehow the size has changed, so we need to
+   modify the project for the box outlines.
+   * Select the newly imported object (box outline)
+   * F2 to open Properties window.
+   * In Properties window, X,Y,Z section, Geometry block, set X-pos to
+     80.000 mm, Y-Pos to 60.000 mm, Width to 745.000 mm, Height to
+     564.000 mm.
+   * Close Properties window. File -> Save As..., save file as
+     box_artwork_base.sla.
+
+
+
+--- box_artwork.sla
+
+box_artwork.sla is the artwork file for Milkymist One box, and used
+for creating print-ready box_artwork.pdf.
 
 Steps to create print-ready box_artwork.pdf:
 
