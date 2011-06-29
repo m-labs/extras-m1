@@ -12,10 +12,11 @@ on how to create the final PDF file for printing.
 
 --- box_artwork.sla
 
-box.dxf is the outline used for the box die-cutting. We import
-it into Inkscape to then save as a temporary .svg file, which we
-can then import into Scribus as the initial outline in
-box_artwork.sla
+box.dxf is the outline used for the box die-cutting. Import into
+Inkscape - note that you need to uncheck 'Use automatic scaling to
+size A4' and a scaling factor of 1.0. Then save as a temporary
+.svg file which can then be imported into Scribus to form the
+initial outline for box_artwork.sla.
 
 Steps to create print-ready box_artwork.pdf:
 
