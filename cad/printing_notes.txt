@@ -53,6 +53,8 @@ Steps to create print-ready box_artwork.pdf:
 
 ** open box_artwork.sla with Scribus
 ** File -> Export -> Save as PDF...
+    Fonts tab
+     Outline all
     Save
 ** File -> Close (discard changes)
 
