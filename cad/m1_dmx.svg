@@ -42,8 +42,8 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.0754519"
-     inkscape:cx="401.27629"
+     inkscape:zoom="0.76045933"
+     inkscape:cx="529.25349"
      inkscape:cy="580.07629"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
@@ -424,74 +424,6 @@
          style="fill:none;stroke:#000000;stroke-width:1.02325916"
          inkscape:connector-curvature="0" />
     </g>
-    <g
-       transform="translate(-2.2141981e-4,140.44724)"
-       id="g6897-8">
-      <path
-         id="path3706-7"
-         d="m 360.892,280.28119 0,10.62992"
-         style="fill:none;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:2, 1;stroke-dashoffset:0"
-         inkscape:connector-curvature="0" />
-      <path
-         id="path3710-2"
-         d="m 431.75814,280.28119 0,10.62992"
-         style="fill:none;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:2, 1;stroke-dashoffset:0"
-         inkscape:connector-curvature="0" />
-      <path
-         id="path3714-4"
-         d="m 162.11248,290.91111 0,-10.62992"
-         style="fill:none;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:2, 1;stroke-dashoffset:0"
-         inkscape:connector-curvature="0" />
-      <path
-         id="path3718-8"
-         d="m 204.63216,280.28119 0,10.62992"
-         style="fill:none;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:2, 1;stroke-dashoffset:0"
-         inkscape:connector-curvature="0" />
-      <path
-         id="path3724-1"
-         d="m 588.01799,290.91111 0,-10.62992"
-         style="fill:none;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:2, 1;stroke-dashoffset:0"
-         inkscape:connector-curvature="0" />
-      <path
-         id="path3728-4"
-         d="m 630.53767,280.28119 0,10.62992"
-         style="fill:none;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:2, 1;stroke-dashoffset:0"
-         inkscape:connector-curvature="0" />
-      <path
-         id="path3720-2-8"
-         d="m 94.87163,280.18586 601.31581,0"
-         style="fill:none;stroke:#000000;stroke-width:1.02325916"
-         inkscape:connector-curvature="0" />
-      <path
-         id="path3714-7-0"
-         d="m 94.843,290.7814 0,-11.1802"
-         style="fill:none;stroke:#000000;stroke-width:1.02555716"
-         inkscape:connector-curvature="0" />
-      <path
-         id="path3714-8-6"
-         d="m 696.114,290.39143 0,-10.62992"
-         style="fill:none;stroke:#000000"
-         inkscape:connector-curvature="0" />
-      <path
-         id="path3720-2-9-3"
-         d="m 95.42763,290.31955 601.31581,0"
-         style="fill:none;stroke:#000000;stroke-width:1.02325916"
-         inkscape:connector-curvature="0" />
-    </g>
-    <rect
-       style="fill:none;stroke:#000000;stroke-width:1;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
-       id="rect4091"
-       width="51.102867"
-       height="12.968017"
-       x="157.75345"
-       y="430.95377" />
-    <rect
-       style="fill:none;stroke:#000000;stroke-width:1;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
-       id="rect4091-4"
-       width="51.102867"
-       height="12.968017"
-       x="583.52698"
-       y="431.22549" />
     <path
        inkscape:connector-curvature="0"
        style="fill:none;stroke:#000000"
@@ -502,5 +434,79 @@
        style="fill:none;stroke:#000000"
        d="m 655.487,420.31553 0,-129.68504"
        id="path3584-7" />
+    <g
+       id="g9864">
+      <path
+         id="path3706-7"
+         d="m 360.89178,420.72843 0,10.62992"
+         style="fill:none;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:2, 1;stroke-dashoffset:0"
+         inkscape:connector-curvature="0" />
+      <path
+         id="path3710-2"
+         d="m 431.75792,420.72843 0,10.62992"
+         style="fill:none;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:2, 1;stroke-dashoffset:0"
+         inkscape:connector-curvature="0" />
+      <path
+         id="path3714-4"
+         d="m 162.11226,431.35835 0,-10.62992"
+         style="fill:none;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:2, 1;stroke-dashoffset:0"
+         inkscape:connector-curvature="0" />
+      <path
+         id="path3718-8"
+         d="m 204.63194,420.72843 0,10.62992"
+         style="fill:none;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:2, 1;stroke-dashoffset:0"
+         inkscape:connector-curvature="0" />
+      <path
+         id="path3724-1"
+         d="m 588.01777,431.35835 0,-10.62992"
+         style="fill:none;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:2, 1;stroke-dashoffset:0"
+         inkscape:connector-curvature="0" />
+      <path
+         id="path3728-4"
+         d="m 630.53745,420.72843 0,10.62992"
+         style="fill:none;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:2, 1;stroke-dashoffset:0"
+         inkscape:connector-curvature="0" />
+      <path
+         id="path3720-2-8"
+         d="m 94.871409,420.6331 601.315811,0"
+         style="fill:none;stroke:#000000;stroke-width:1.02325916"
+         inkscape:connector-curvature="0" />
+      <path
+         id="path3714-7-0"
+         d="m 94.842779,431.22864 0,-11.1802"
+         style="fill:none;stroke:#000000;stroke-width:1.02555716"
+         inkscape:connector-curvature="0" />
+      <path
+         id="path3714-8-6"
+         d="m 696.11378,430.83867 0,-10.62992"
+         style="fill:none;stroke:#000000"
+         inkscape:connector-curvature="0" />
+      <g
+         id="g9832">
+        <path
+           inkscape:connector-curvature="0"
+           style="fill:none;stroke:#000000;stroke-width:1.02325916"
+           d="m 95.427409,430.96655 601.315811,0"
+           id="path3720-2-9-3" />
+        <rect
+           style="fill:none;stroke:#000000;stroke-width:1;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+           id="rect4091"
+           width="51.102875"
+           height="13.296753"
+           x="157.453"
+           y="430.95416"
+           ry="5.0046329"
+           rx="4.9312301" />
+        <rect
+           style="fill:none;stroke:#000000;stroke-width:1;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+           id="rect4091-8"
+           width="51.102875"
+           height="13.296753"
+           x="583.815"
+           y="431.14243"
+           ry="5.0046329"
+           rx="4.9312301" />
+      </g>
+    </g>
   </g>
 </svg>
