@@ -9,10 +9,10 @@
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    style="display:inline"
-   sodipodi:docname="milkymist-assemble-howto.svg"
+   sodipodi:docname="milkymist-assemble-howto.pdf"
    height="100%"
    width="100%"
-   inkscape:version="0.47 r22583"
+   inkscape:version="0.47pre4 r22446"
    version="1.1"
    id="svg2855">
   <metadata
@@ -23,7 +23,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -36,15 +36,15 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1920"
-     inkscape:window-height="1008"
+     inkscape:window-width="1680"
+     inkscape:window-height="976"
      id="namedview3879"
      showgrid="false"
-     inkscape:zoom="1.4142136"
-     inkscape:cx="453.94613"
-     inkscape:cy="381.66466"
+     inkscape:zoom="1.4511719"
+     inkscape:cx="426.3822"
+     inkscape:cy="164.03459"
      inkscape:window-x="0"
-     inkscape:window-y="24"
+     inkscape:window-y="25"
      inkscape:window-maximized="1"
      inkscape:current-layer="layer1"
      showguides="true"
@@ -6120,15 +6120,16 @@
        d="m 289.82492,462.10636 0,0.0625 1.09375,0.71875 -1.09375,0.59375 0,0.21875 1.09375,0.75 -1.09375,0.625 0,0.1875 1.125,0.75 -1.125,0.59375 0,0.1875 1.125,0.75 -1.125,0.625 0,0.1875 1.125,0.75 -1.125,0.59375 -0.6875,0 0,10.65625 7.09375,0 0,-10.65625 -0.78125,0 -1.0625,-0.59375 1.125,-0.75 0,-0.15625 -1.125,-0.65625 1.125,-0.78125 0,-0.1875 -1.125,-0.59375 1.125,-0.71875 0,-0.21875 -1.125,-0.59375 1.125,-0.75 0,-0.1875 -1.09375,-0.625 1.09375,-0.71875 0,-0.0625 -5.6875,0 z"
        id="rect4686-5-0-4-6" />
     <image
-       y="-226.17467"
-       x="466.63107"
-       id="image10882"
-       height="226.61504"
-       width="306.66031"
+       sodipodi:absref="/home/roh/svnpriv/milkymist/m1/cad/Mm1_rc1_parts_on_pcb_farb.png"
        xlink:href="Mm1_rc1_parts_on_pcb_farb.png"
-       transform="matrix(0.53601769,0.84420675,-0.9504723,0.31080927,0,0)"
+       inkscape:transform-center-y="-134.95628"
        inkscape:transform-center-x="-22.510867"
-       inkscape:transform-center-y="-134.95628" />
+       transform="matrix(0.53601769,0.84420675,-0.9504723,0.31080927,0,0)"
+       width="306.66031"
+       height="226.61504"
+       id="image10882"
+       x="466.63107"
+       y="-226.17467" />
     <path
        sodipodi:type="arc"
        style="color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.49843356;stroke-linecap:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
@@ -9128,7 +9129,7 @@
          style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Yanone Kaffeesatz;-inkscape-font-specification:Yanone Kaffeesatz"
          id="flowPara7065"><flowSpan
    style="font-size:14px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Yanone Kaffeesatz;-inkscape-font-specification:Yanone Kaffeesatz Bold"
-   id="flowSpan6363">1. </flowSpan>If necessary, assemble buttons with glue or adhesive tape.</flowPara><flowPara
+   id="flowSpan6363">1. </flowSpan>If necessary, assemble buttons.</flowPara><flowPara
          style="font-size:4px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Yanone Kaffeesatz;-inkscape-font-specification:Yanone Kaffeesatz"
          id="flowPara5515"> </flowPara><flowPara
          style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Yanone Kaffeesatz;-inkscape-font-specification:Yanone Kaffeesatz"
@@ -9148,7 +9149,7 @@
    style="font-size:14px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Yanone Kaffeesatz;-inkscape-font-specification:Yanone Kaffeesatz Bold"
    id="flowSpan6369">4. </flowSpan>Place board on the shielding-sheet and attach side-plates.  </flowPara><flowPara
          style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Yanone Kaffeesatz;-inkscape-font-specification:Yanone Kaffeesatz"
-         id="flowPara11882">Use button-plate last while lifting the edge of the board.</flowPara><flowPara
+         id="flowPara11882">Place button-plate last while lifting the edge of the board.</flowPara><flowPara
          style="font-size:4px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Yanone Kaffeesatz;-inkscape-font-specification:Yanone Kaffeesatz"
          id="flowPara8142"> </flowPara><flowPara
          style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Yanone Kaffeesatz;-inkscape-font-specification:Yanone Kaffeesatz"
